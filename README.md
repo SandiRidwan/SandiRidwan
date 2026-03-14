@@ -7,15 +7,29 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandiridwan" alt="sandiridwan" /></a> </p>
 
-- 🌱 I’m currently learning **All About Data Analyst, Im is currently immersed in the fascinating world of data analysis, exploring the myriad techniques and tools that empower professionals to make data-driven decisions that transform businesses and industries. Armed with an insatiable curiosity and a thirst for knowledge, determined to harness the power of data to drive innovation and success.**
+- # Hi, I'm Sandi ⚡
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sandi-ridwan/](https://www.linkedin.com/in/sandi-ridwan/)
+I’m a **Bachelor of Electrical Engineering** who builds high-performance automation systems. I bridge the gap between messy web data and structured business workflows.
 
-- 📝 I regularly Post My visualization on [https://public.tableau.com/app/profile/sandi.ridwan](https://public.tableau.com/app/profile/sandi.ridwan)
+### 🛠 Tech Stack & Tools
+- **Languages:** Python (Selenium, Pandas, BeautifulSoup, Scrapy)
+- **Automation:** Make.com (Integromat), Zapier, Cron Jobs
+- **Databases:** Google Sheets API, Airtable, PostgreSQL
+- **Specialties:** Web Scraping, Lead Generation Pipelines, API Integrations
 
-- 📫 How to reach me **sandyzvoster@gmail.com**
+### 🚀 Featured Projects
+- **[Automated Lead Pipeline](https://github.com/SandiRidwan/automated-lead-pipeline):** A full-circle integration from Google Sheets to API via Make.com with real-time feedback.
+- **[Spain Business Scraper](https://github.com/SandiRidwan/spain-business-leads-scraper):** High-scale Google Maps scraping engine for international lead generation.
+- **[Nairobi Dental Leads](https://github.com/SandiRidwan/nairobi-dental-leads-automation):** Targetted lead extraction and automation for healthcare niches.
+- **[Newegg E-Commerce Scraper](https://github.com/SandiRidwan/newegg-ecommerce-scraper):** Advanced scraper focusing on data integrity and price tracking.
 
-- ⚡ Fun fact **Data Analyst with a strong focus on accuracy and problem-solving. Excelled in driving IT efficiency by 10% and reducing software implementation time by 50%, enhancing customer satisfaction. Proficient in Python and R, I contributed to a 12% revenue increase and achieved a 20% cost reduction through streamlined processes in electrical power distribution. Equipped with a GPA of 3.20 and certified in Excel, Power System Analysis, and Python Programming, I am eager to apply data insights for informed decision-making.**
+### 📈 Work Philosophy
+> *"I don't just write scripts; I build robust infrastructures that are scalable, fail-safe, and professional."*
+
+---
+📫 **Let's Connect:**
+- **Upwork:** [[Your Upwork Profile Link](https://www.upwork.com/freelancers/~011f6d0fbb4a372974?mp_source=share)]
+- **LinkedIn:** [[Your LinkedIn Profile Link](http://linkedin.com/in/sandi-ridwan/)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
