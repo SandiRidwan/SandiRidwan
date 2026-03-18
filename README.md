@@ -7,29 +7,68 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandiridwan" alt="sandiridwan" /></a> </p>
 
-- # Hi, I'm Sandi ⚡
+# 👋 Hello, I'm Sandi! 🚀
+**Electrical Engineer | Automation Architect | OSINT & Data Extraction Specialist**
 
-I’m a **Bachelor of Electrical Engineering** who builds high-performance automation systems. I bridge the gap between messy web data and structured business workflows.
-
-### 🛠 Tech Stack & Tools
-- **Languages:** Python (Selenium, Pandas, BeautifulSoup, Scrapy)
-- **Automation:** Make.com (Integromat), Zapier, Cron Jobs
-- **Databases:** Google Sheets API, Airtable, PostgreSQL
-- **Specialties:** Web Scraping, Lead Generation Pipelines, API Integrations
-
-### 🚀 Featured Projects
-- **[Automated Lead Pipeline](https://github.com/SandiRidwan/automated-lead-pipeline):** A full-circle integration from Google Sheets to API via Make.com with real-time feedback.
-- **[Spain Business Scraper](https://github.com/SandiRidwan/spain-business-leads-scraper):** High-scale Google Maps scraping engine for international lead generation.
-- **[Nairobi Dental Leads](https://github.com/SandiRidwan/nairobi-dental-leads-automation):** Targetted lead extraction and automation for healthcare niches.
-- **[Newegg E-Commerce Scraper](https://github.com/SandiRidwan/newegg-ecommerce-scraper):** Advanced scraper focusing on data integrity and price tracking.
-
-### 📈 Work Philosophy
-> *"I don't just write scripts; I build robust infrastructures that are scalable, fail-safe, and professional."*
+![Main Activity](https://img.shields.io/badge/Main_Focus-Automated_Market_Intelligence-blue.svg?style=for-the-badge)
+![Location](https://img.shields.io/badge/Coverage-Global_(4_Continents)-green.svg?style=for-the-badge)
 
 ---
-📫 **Let's Connect:**
-- **Upwork:** [[Your Upwork Profile Link](https://www.upwork.com/freelancers/~011f6d0fbb4a372974?mp_source=share)]
-- **LinkedIn:** [[Your LinkedIn Profile Link](http://linkedin.com/in/sandi-ridwan/)]
+
+## ⚡ About Me
+I am a professional **Electrical Engineer** who translates engineering precision into the world of **Web Automation** and **Data Engineering**. I build high-performance "Scraping Engines" that bypass complex anti-bot protections to deliver clean, actionable business intelligence across global markets.
+
+* 🌍 **Global Reach**: Engineered lead generation systems for markets in **India, Saudi Arabia, Spain, Kenya, and the USA**.
+* 🤖 **AI Integration**: Developing autonomous trackers using **Groq (Llama 3.1)** and **Make.com** for real-time market sentiment analysis.
+* 🛡️ **Stealth Specialist**: Expert in bypassing Cloudflare, hCaptcha, and WAF using `undetected-chromedriver` and human-mimicry logic.
+
+---
+
+## 🛠️ My Arsenal (Tech Stack)
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python (Pandas, Numpy, Selenium, Requests, BeautifulSoup4) |
+| **Automation** | Make.com (Integromat), Selenium WebDriver, Undetected Chromedriver |
+| **AI & LLMs** | Groq API (Llama 3.1), OpenAI API, ElevenLabs |
+| **Data & DB** | Google Sheets API, PostgreSQL, JSON/CSV Orchestration |
+| **Expertise** | OSINT, DNS/MX Validation, B2B Prospecting, E-commerce Intelligence |
+
+---
+
+## 🚀 Featured Global Projects
+
+### 🇸🇦 Saudi Arabia Leads Sniper
+Automated OSINT-based identity matching for high-ticket decision makers in the KSA market with 100% DNS validation.
+
+### 🇪🇸 Spain Business Scraper
+High-precision extraction for the EU market with full support for Spanish localized characters and regional clustering.
+
+### ⚽ Global Football Analytics
+Mass-scale statistics engine extracting data from 250+ leagues worldwide, featuring advanced MultiIndex data flattening.
+
+### 🦅 Newegg Market Intelligence
+Autonomous "Predator-Search" bot for high-volume e-commerce price and inventory tracking.
+
+---
+
+## 📊 My Automation Circuit (Stats)
+
+![Sandi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SandiRidwan&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SandiRidwan&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Let's Connect!
+I’m always open to discussing new automation challenges or custom data engineering projects.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sandi-ridwan/)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-green?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~011f6d0fbb4a372974)
+[![Freelancer](https://img.shields.io/badge/Freelancer-Hire_Me-blue?style=for-the-badge&logo=freelancer)](https://www.freelancer.com/u/SandiRidwan)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:sandyzvoster@gmail.com)
+
+---
+*"Turning raw web data into clean, profitable intelligence—one script at a time."*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
