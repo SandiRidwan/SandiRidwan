@@ -40,7 +40,9 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=sandiridwan&style=for-the-badge&color=00FF9C&label=PROFILE+VIEWS"/>
 </div>
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 ---
 
 ```python
@@ -75,7 +77,9 @@ class SandiRidwan:
 <div align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif"/>
 </div>
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 ---
 
 ## `$ cat verified_skills.txt`
@@ -83,6 +87,8 @@ class SandiRidwan:
 > 🏅 **Independently verified — not just self-reported**
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 
 | Platform | Certification | Result |
 |:---:|:---:|:---:|
@@ -97,6 +103,9 @@ class SandiRidwan:
 | ![Microsoft](https://img.shields.io/badge/Microsoft-Applied_Skills-0078D4?style=flat-square) | GitHub Actions | ✅ Lab-Based |
 | ![MongoDB](https://img.shields.io/badge/MongoDB-10_Skill_Badges-47A248?style=flat-square) | Full Stack | ✅ Core → AI Agents |
 
+</div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 
 ---
@@ -134,7 +143,9 @@ Stack: Playwright · Docker · GitHub Actions · zoneinfo · open.er-api.com
 ```
 Stack: Make.com · Calendly · Monday.com · Claude API · Groq (Llama 3.1)
 ```
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 ---
 
 ## `$ cat ./anti_bot_arsenal.md`
@@ -159,7 +170,9 @@ Stack: Make.com · Calendly · Monday.com · Claude API · Groq (Llama 3.1)
 │  ✓ Pagination-less Sites     binary search pattern  │
 └─────────────────────────────────────────────────────┘
 ```
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 ---
 
 ## `$ python3 tech_stack.py`
@@ -199,7 +212,9 @@ Stack: Make.com · Calendly · Monday.com · Claude API · Groq (Llama 3.1)
 ![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logoColor=white)
 
 </div>
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 ---
 
 ## `$ git stats --global`
@@ -223,7 +238,9 @@ Stack: Make.com · Calendly · Monday.com · Claude API · Groq (Llama 3.1)
 <div align="center">
   <img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/snake-output/snake.svg" alt="Snake animation" />
 </div>
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 ---
 
 ## `$ ./contact.sh`
@@ -244,7 +261,9 @@ echo "Availability : OPEN for freelance & remote roles"
 echo "Timezone     : WIB (UTC+8) — Asia/Makassar"
 echo "Response time: < 24 hours"
 ```
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 ---
 
 <div align="center">
