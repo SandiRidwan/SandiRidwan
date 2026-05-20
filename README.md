@@ -209,8 +209,7 @@ Stack: Make.com · Calendly · Monday.com · Claude API · Groq (Llama 3.1)
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SandiRidwan&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandiRidwan&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/snake-output/snake.svg" alt="Snake animation" />
 </div>
 
 <div align="center">
@@ -222,11 +221,7 @@ Stack: Make.com · Calendly · Monday.com · Claude API · Groq (Llama 3.1)
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/output/github-snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/snake-output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
