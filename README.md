@@ -262,9 +262,3 @@ echo "Response time: < 24 hours"
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00FF9C,100:000000&height=120&section=footer&animation=fadeIn" />
 
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/pacman-output/puzzle-bobble-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/pacman-output/puzzle-bobble-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/pacman-output/puzzle-bobble-contribution-graph.svg">
-</picture>
