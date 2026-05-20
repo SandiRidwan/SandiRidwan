@@ -252,3 +252,48 @@ echo "Response time: < 24 hours"
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00FF9C,100:000000&height=120&section=footer&animation=fadeIn" />
 
 </div>
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/pacman-output/breakout-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/pacman-output/breakout-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/pacman-output/breakout-contribution-graph.svg">
+</picture>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/pacman-output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/pacman-output/galaga-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/pacman-output/galaga-contribution-graph.svg">
+</picture>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/pacman-output/puzzle-bobble-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/pacman-output/puzzle-bobble-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/pacman-output/puzzle-bobble-contribution-graph.svg">
+</picture>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/pacman-output/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/pacman-output/bomberman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/pacman-output/bomberman-contribution-graph.svg">
+</picture>
+
+###
