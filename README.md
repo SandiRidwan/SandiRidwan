@@ -1,86 +1,254 @@
-[![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
-<h1 align="center">Hi 👋, I'm Sandi Ridwan</h1>
-<h3 align="center">Electrical Engineer | Automation & Data Pipeline Architect. Specialized in Python, Selenium, & Make.com.</h3>
-<img width="600" height="338" alt="Image" src="https://github.com/user-attachments/assets/5a12c6a7-7828-4a64-a29e-d4add33d82e1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00FF9C,100:000000&height=200&section=header&text=SANDI%20RIDWAN&fontSize=60&fontColor=00FF9C&fontAlignY=38&desc=Automation%20Architect%20%7C%20Data%20Pipeline%20Engineer%20%7C%20Anti-Bot%20Specialist&descAlignY=58&descSize=16&descColor=888888&animation=fadeIn" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandiridwan&label=Profile%20views&color=0e75b6&style=flat" alt="sandiridwan" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandiridwan" alt="sandiridwan" /></a> </p>
+[![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://github.com/sandiridwan)
 
-# 👋 Hello, I'm Sandi! 🚀
-**Electrical Engineer | Automation Architect | OSINT & Data Extraction Specialist**
+<img width="600" height="338" alt="Sandi Ridwan" src="https://github.com/user-attachments/assets/5a12c6a7-7828-4a64-a29e-d4add33d82e1" />
 
-![Main Activity](https://img.shields.io/badge/Main_Focus-Automated_Market_Intelligence-blue.svg?style=for-the-badge)
-![Location](https://img.shields.io/badge/Coverage-Global_(4_Continents)-green.svg?style=for-the-badge)
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&width=800&height=60&lines=Sandi+Ridwan+%F0%9F%9A%80;Automation+%26+Data+Pipeline+Architect;Web+Scraping+%7C+Anti-Bot+Bypass+Specialist;TestDome+Python+%26+SQL+%E2%80%94+Top+10%25+%F0%9F%8F%85;Building+Data+Engines+That+Never+Sleep" alt="Typing SVG" />
 
-## ⚡ About Me
-I am a professional **Electrical Engineer** who translates engineering precision into the world of **Web Automation** and **Data Engineering**. I build high-performance "Scraping Engines" that bypass complex anti-bot protections to deliver clean, actionable business intelligence across global markets.
+<br/>
 
-* 🌍 **Global Reach**: Engineered lead generation systems for markets in **India, Saudi Arabia, Spain, Kenya, and the USA**.
-* 🤖 **AI Integration**: Developing autonomous trackers using **Groq (Llama 3.1)** and **Make.com** for real-time market sentiment analysis.
-* 🛡️ **Stealth Specialist**: Expert in bypassing Cloudflare, hCaptcha, and WAF using `undetected-chromedriver` and human-mimicry logic.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=666666&center=true&vCenter=true&width=700&height=30&lines=%24+python3+scraper.py+--target+any_site+--bypass+any_protection;%24+docker+build+-t+sandi%2Fdata-engine+.+%26%26+docker+run+...;%24+records_extracted%3D224000+%7C+status%3DDONE+%7C+elapsed%3D2.3h;%24+make.com+%7C+claude-api+%7C+playwright+%7C+curl_cffi" alt="Terminal Typing" />
 
----
+</div>
 
-## 🛠️ My Arsenal (Tech Stack)
+<br/>
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | Python (Pandas, Numpy, Selenium, Requests, BeautifulSoup4) |
-| **Automation** | Make.com (Integromat), Selenium WebDriver, Undetected Chromedriver |
-| **AI & LLMs** | Groq API (Llama 3.1), OpenAI API, ElevenLabs |
-| **Data & DB** | Google Sheets API, PostgreSQL, JSON/CSV Orchestration |
-| **Expertise** | OSINT, DNS/MX Validation, B2B Prospecting, E-commerce Intelligence |
+<div align="center">
+  <a href="https://www.linkedin.com/in/sandi-ridwan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/~011f6d0fbb4a372974">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+  </a>
+  <a href="mailto:sandyzvoster@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=sandiridwan&style=for-the-badge&color=00FF9C&label=PROFILE+VIEWS"/>
+</div>
 
 ---
 
-## 🚀 Featured Global Projects
+```python
+class SandiRidwan:
+    def __init__(self):
+        self.role        = "Automation Architect & Data Pipeline Engineer"
+        self.location    = "Palu, Central Sulawesi 🇮🇩"
+        self.languages   = ["Python", "JavaScript", "SQL", "Bash"]
+        self.stack       = ["FastAPI", "Playwright", "Docker", "MongoDB", "AWS"]
+        self.specialties = [
+            "Large-scale web scraping (50K–500K records)",
+            "TLS fingerprint bypass & anti-bot evasion",
+            "Government & legal data extraction",
+            "Automation pipelines (Make.com, Zapier)",
+            "AI-powered data processing (Claude API, Groq)"
+        ]
+        self.certifications = {
+            "TestDome Python": "Top 10% Global 🥇",
+            "TestDome SQL":    "Top 10% Global 🥇",
+            "HackerRank SQL":  "Advanced ✅",
+            "Harvard CS50P":   "Verified ✅",
+            "IBM Data Analyst":"Professional Certificate ✅",
+            "MongoDB":         "10 Skill Badges ✅",
+            "Microsoft":       "Applied Skills: GitHub Actions ✅"
+        }
+        self.availability = "OPEN — Freelance & Remote Roles"
 
-### 🇸🇦 Saudi Arabia Leads Sniper
-Automated OSINT-based identity matching for high-ticket decision makers in the KSA market with 100% DNS validation.
+    def contact(self):
+        return "sandyzvoster@gmail.com"
+```
 
-### 🇪🇸 Spain Business Scraper
-High-precision extraction for the EU market with full support for Spanish localized characters and regional clustering.
-
-### ⚽ Global Football Analytics
-Mass-scale statistics engine extracting data from 250+ leagues worldwide, featuring advanced MultiIndex data flattening.
-
-### 🦅 Newegg Market Intelligence
-Autonomous "Predator-Search" bot for high-volume e-commerce price and inventory tracking.
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif"/>
+</div>
 
 ---
 
-## 📊 My Automation Circuit (Stats)
+## `$ cat verified_skills.txt`
 
-![Sandi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SandiRidwan&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SandiRidwan&layout=compact&theme=tokyonight)
+> 🏅 **Independently verified — not just self-reported**
+
+<div align="center">
+
+| Platform | Certification | Result |
+|:---:|:---:|:---:|
+| ![TestDome](https://img.shields.io/badge/TestDome-Python-FFD700?style=flat-square&logoColor=black) | Python | 🥇 **Top 10% Global** |
+| ![TestDome](https://img.shields.io/badge/TestDome-SQL-FFD700?style=flat-square&logoColor=black) | SQL | 🥇 **Top 10% Global** |
+| ![HackerRank](https://img.shields.io/badge/HackerRank-SQL_Advanced-2EC866?style=flat-square) | SQL Advanced | ✅ Passed |
+| ![HackerRank](https://img.shields.io/badge/HackerRank-SQL_Intermediate-2EC866?style=flat-square) | SQL Intermediate | ✅ Passed |
+| ![HackerRank](https://img.shields.io/badge/HackerRank-Python_Basic-2EC866?style=flat-square) | Python Basic | ✅ Passed |
+| ![HackerRank](https://img.shields.io/badge/HackerRank-Problem_Solving-2EC866?style=flat-square) | Problem Solving | ✅ Passed |
+| ![Harvard](https://img.shields.io/badge/Harvard-CS50P-A51C30?style=flat-square) | CS50's Python | ✅ Verified |
+| ![IBM](https://img.shields.io/badge/IBM-Data_Analyst_Professional-054ADA?style=flat-square) | Data Analyst | ✅ 9 Courses |
+| ![Microsoft](https://img.shields.io/badge/Microsoft-Applied_Skills-0078D4?style=flat-square) | GitHub Actions | ✅ Lab-Based |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-10_Skill_Badges-47A248?style=flat-square) | Full Stack | ✅ Core → AI Agents |
+
+</div>
 
 ---
 
-## 📫 Let's Connect!
-I’m always open to discussing new automation challenges or custom data engineering projects.
+## `$ ls -la ./projects/`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sandi-ridwan/)
-[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-green?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~011f6d0fbb4a372974)
-[![Freelancer](https://img.shields.io/badge/Freelancer-Hire_Me-blue?style=for-the-badge&logo=freelancer)](https://www.freelancer.com/u/SandiRidwan)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:sandyzvoster@gmail.com)
+<div align="center">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="380" alt="data processing gif"/>
+</div>
+
+### 🏛️ P19 — Connecticut Court Scraper `[$500]`
+> **224,000 court cases** extracted from ASP.NET WebForms government portal. VIEWSTATE bypass, TLS fingerprint evasion, binary search range discovery, thread-safe parallel scraping. Delivered as **41.2MB 9-tab relational Excel**.
+
+```
+Stack: Python · curl_cffi Chrome120 · ASP.NET VIEWSTATE · ThreadPoolExecutor · openpyxl
+```
+
+### 💊 P20 — SFDA Pharmaceutical API `[Portfolio]`
+> Production-grade **FastAPI backend** serving Saudi FDA drug data. Async job queue, StreamingResponse, Playwright request interceptor for hidden POST pagination. Dockerized with multi-stage build, healthcheck, Telegram progress alerts.
+
+```
+Stack: FastAPI · Playwright · Docker · SQLite · Telegram Bot API · curl_cffi
+```
+
+### 🏨 P21 — Agoda Hotel Scraper `[Take-Home Test]`
+> Playwright async response interceptor capturing room-grid API. Geo-IP currency lock workaround. Timezone-aware dynamic dates via `ZoneInfo`. GitHub Actions daily CI/CD. Full README documentation.
+
+```
+Stack: Playwright · Docker · GitHub Actions · zoneinfo · open.er-api.com
+```
+
+### ⚙️ P17 — Make.com B2B Automation `[$250]`
+> End-to-end lead pipeline: Calendly → Monday.com CRM sync → AI two-pass processing with Claude API + Groq. EU server config, webhook orchestration, structured output parsing.
+
+```
+Stack: Make.com · Calendly · Monday.com · Claude API · Groq (Llama 3.1)
+```
 
 ---
-*"Turning raw web data into clean, profitable intelligence—one script at a time."*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sandi ridwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandi ridwan" height="30" width="40" /></a>
-<a href="https://instagram.com/_sandi.ridwan.poli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sandi.ridwan.poli" height="30" width="40" /></a>
-</p>
+## `$ cat ./anti_bot_arsenal.md`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<div align="center">
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" alt="hacker gif"/>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandiridwan&show_icons=true&locale=en&layout=compact" alt="sandiridwan" /></p>
+```
+┌─────────────────────────────────────────────────────┐
+│  BYPASS TECHNIQUES — PROVEN IN PRODUCTION           │
+├─────────────────────────────────────────────────────┤
+│  ✓ TLS Fingerprint Bypass    curl_cffi Chrome120    │
+│  ✓ JA3 Fingerprint Evasion   custom TLS profiles    │
+│  ✓ ASP.NET VIEWSTATE         span-ID parser         │
+│  ✓ Cloudflare WAF            undetected-chromedriver │
+│  ✓ Kasada Anti-Bot           human-mimicry logic    │
+│  ✓ hCaptcha / reCAPTCHA      3rd party solving      │
+│  ✓ Dynamic JS Rendering      Playwright intercept   │
+│  ✓ OTA Geo-IP Lock           currency workaround    │
+│  ✓ Hidden API Discovery      network intercept      │
+│  ✓ Pagination-less Sites     binary search pattern  │
+└─────────────────────────────────────────────────────┘
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandiridwan&show_icons=true&locale=en" alt="sandiridwan" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandiridwan&" alt="sandiridwan" /></p>
+## `$ python3 tech_stack.py`
+
+<div align="center">
+
+**Languages & Core**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**Scraping & Automation**
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+
+**Backend & DevOps**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+**Cloud & Data**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**AI & LLMs**
+
+![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
+
+## `$ git stats --global`
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SandiRidwan&theme=react-dark&hide_border=true&area=true" width="100%"/>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SandiRidwan&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandiRidwan&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SandiRidwan&theme=chartreuse-dark&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sandiridwan&theme=matrix&no-frame=true&row=1&column=7"/>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+## `$ ./contact.sh`
+
+<div align="center">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="wave gif"/>
+</div>
+
+```bash
+#!/bin/bash
+echo "Looking for a scraping specialist or automation engineer?"
+echo ""
+echo "  Upwork   → https://www.upwork.com/freelancers/~011f6d0fbb4a372974"
+echo "  LinkedIn → https://www.linkedin.com/in/sandi-ridwan/"
+echo "  Email    → sandyzvoster@gmail.com"
+echo ""
+echo "Availability : OPEN for freelance & remote roles"
+echo "Timezone     : WIB (UTC+8) — Asia/Makassar"
+echo "Response time: < 24 hours"
+```
+
+---
+
+<div align="center">
+
+```
+"Turning raw web data into clean, profitable intelligence — one script at a time."
+                                                              — Sandi Ridwan
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00FF9C,100:000000&height=120&section=footer&animation=fadeIn" />
+
+</div>
