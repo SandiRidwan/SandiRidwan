@@ -14,7 +14,7 @@
 
 <img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/snake-output/snake.svg" alt="Snake animation" />
 
-<img width="600" height="338" alt="Sandi Ridwan" src="https://github.com/user-attachments/assets/5a12c6a7-7828-4a64-a29e-d4add33d82e1" />
+<img width="1000" height="600" alt="Sandi Ridwan" src="https://github.com/user-attachments/assets/5a12c6a7-7828-4a64-a29e-d4add33d82e1" />
 
 <br/>
 
