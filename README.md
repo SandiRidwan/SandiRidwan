@@ -128,8 +128,43 @@ class SandiRidwan:
 
 <div align="center">
 
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://credly-readme-stats.onrender.com/api/stats?username=sandi-r&theme=github_dark&title_color=00FF9C&icon_color=00FF9C&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://credly-readme-stats.onrender.com/api/stats?username=sandi-r&theme=github_light&title_color=00AA66&icon_color=00AA66&hide_border=true" />
+  <img alt="Credly Stats" src="https://credly-readme-stats.onrender.com/api/stats?username=sandi-r&theme=github_dark&title_color=00FF9C&icon_color=00FF9C&hide_border=true" width="100%"/>
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://credly-readme-stats.onrender.com/api/carousel?username=sandi-r&theme=github_dark&title_color=00FF9C&hide_border=true&visible_count=5&badge_size=64&interval=3" />
+  <source media="(prefers-color-scheme: light)" srcset="https://credly-readme-stats.onrender.com/api/carousel?username=sandi-r&theme=github_light&title_color=00AA66&hide_border=true&visible_count=5&badge_size=64&interval=3" />
+  <img alt="Credly Carousel" src="https://credly-readme-stats.onrender.com/api/carousel?username=sandi-r&theme=github_dark&title_color=00FF9C&hide_border=true&visible_count=5&badge_size=64&interval=3" width="100%"/>
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://credly-readme-stats.onrender.com/api/grid?username=sandi-r&theme=github_dark&title_color=00FF9C&hide_border=true&columns=6&badge_size=64&show_issuer=false" />
+  <source media="(prefers-color-scheme: light)" srcset="https://credly-readme-stats.onrender.com/api/grid?username=sandi-r&theme=github_light&title_color=00AA66&hide_border=true&columns=6&badge_size=64&show_issuer=false" />
+  <img alt="Credly Badge Grid" src="https://credly-readme-stats.onrender.com/api/grid?username=sandi-r&theme=github_dark&title_color=00FF9C&hide_border=true&columns=6&badge_size=64&show_issuer=false" width="100%"/>
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://credly-readme-stats.onrender.com/api/timeline?username=sandi-r&theme=github_dark&title_color=00FF9C&hide_border=true&max_items=10&show_skills=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://credly-readme-stats.onrender.com/api/timeline?username=sandi-r&theme=github_light&title_color=00AA66&hide_border=true&max_items=10&show_skills=true" />
+  <img alt="Credly Timeline" src="https://credly-readme-stats.onrender.com/api/timeline?username=sandi-r&theme=github_dark&title_color=00FF9C&hide_border=true&max_items=10&show_skills=true" width="100%"/>
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://credly-readme-stats.onrender.com/api/overview?username=sandi-r&theme=github_dark&title_color=00FF9C&icon_color=00FF9C&hide_border=true&visible_count=5&badge_size=64&card_width=700" />
+  <source media="(prefers-color-scheme: light)" srcset="https://credly-readme-stats.onrender.com/api/overview?username=sandi-r&theme=github_light&title_color=00AA66&icon_color=00AA66&hide_border=true&visible_count=5&badge_size=64&card_width=700" />
+  <img alt="Credly Overview" src="https://credly-readme-stats.onrender.com/api/overview?username=sandi-r&theme=github_dark&title_color=00FF9C&icon_color=00FF9C&hide_border=true&visible_count=5&badge_size=64&card_width=700" width="100%"/>
+</picture>
 
 </div>
 <div align="center">
