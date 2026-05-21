@@ -35,6 +35,9 @@
   <a href="https://www.upwork.com/freelancers/~011f6d0fbb4a372974">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
   </a>
+  <a href="https://sandiridwan.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-sandiridwan.github.io-00f5ff?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
   <a href="mailto:sandyzvoster@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
