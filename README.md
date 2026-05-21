@@ -122,6 +122,26 @@ class SandiRidwan:
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 
+## `$ credly --list-badges --user sandi-r`
+
+> 🏆 **21 verified badges** · Auto-updated daily · [View all on Credly →](https://www.credly.com/users/sandi-r)
+
+<div align="center">
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
+</div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
+
 ## `$ ls -la ./projects/`
 
 <div align="center">
