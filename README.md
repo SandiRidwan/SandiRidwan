@@ -103,7 +103,7 @@ class SandiRidwan:
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 
 <!-- AUTO:TOTAL_CREDENTIALS -->
-**38 verified credentials** · Last updated: ** 21 Mei 2026 | **Total Projects:** 21
+**39 verified credentials** · Last updated: ** 21 Mei 2026 | **Total Projects:** 21
 <!-- /AUTO:TOTAL_CREDENTIALS -->
 
 <!-- AUTO:CERTIFICATIONS -->
@@ -137,7 +137,7 @@ class SandiRidwan:
 | <img src="https://img.shields.io/badge/Serverless-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt=""/> | Serverless Demonstrated | ✅ Credly Badge |
 | <img src="https://img.shields.io/badge/Networking-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt=""/> | Application Networking Demonstrated | ✅ Credly Badge |
 | | | |
-| <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud"/> | **Google Cloud** | `4 certs` |
+| <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud"/> | **Google Cloud** | `5 certs` |
 | <img src="https://img.shields.io/badge/Gen_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt=""/> | Introduction to Generative AI | ✅ Completion Badge |
 | <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt=""/> | Explore Gen AI with Vertex AI Gemini API | ✅ Skill Badge · Intermediate |
 | <img src="https://img.shields.io/badge/Streamlit-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt=""/> | Develop GenAI Apps with Gemini and Streamlit | ✅ Skill Badge · Intermediate |
