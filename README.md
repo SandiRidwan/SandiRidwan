@@ -63,13 +63,17 @@ class SandiRidwan:
             "AI-powered data processing (Claude API, Groq)"
         ]
         self.certifications = {
+# AUTO:PYTHON_CERTS
             "TestDome Python": "Top 10% Global 🥇",
             "TestDome SQL":    "Top 10% Global 🥇",
             "HackerRank SQL":  "Advanced ✅",
             "Harvard CS50P":   "Verified ✅",
             "IBM Data Analyst":"Professional Certificate ✅",
             "MongoDB":         "10 Skill Badges ✅",
-            "Microsoft":       "Applied Skills: GitHub Actions ✅"
+            "Microsoft":       "Applied Skills: GitHub Actions ✅",
+            "AWS":             "Serverless + Networking Demonstrated ✅",
+            "Google Cloud":    "Gen AI Skill Badges x2 ✅",
+# /AUTO:PYTHON_CERTS
         }
         self.availability = "OPEN — Freelance & Remote Roles"
 
@@ -98,18 +102,49 @@ class SandiRidwan:
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 
+<!-- AUTO:TOTAL_CREDENTIALS -->
+**37 verified credentials** · Last updated: 23 Mei 2026
+<!-- /AUTO:TOTAL_CREDENTIALS -->
+
+<!-- AUTO:CERTIFICATIONS -->
 | Platform | Certification | Result |
 |:---:|:---:|:---:|
 | ![TestDome](https://img.shields.io/badge/TestDome-Python-FFD700?style=flat-square&logoColor=black) | Python | 🥇 **Top 10% Global** |
 | ![TestDome](https://img.shields.io/badge/TestDome-SQL-FFD700?style=flat-square&logoColor=black) | SQL | 🥇 **Top 10% Global** |
-| ![HackerRank](https://img.shields.io/badge/HackerRank-SQL_Advanced-2EC866?style=flat-square) | SQL Advanced | ✅ Passed |
-| ![HackerRank](https://img.shields.io/badge/HackerRank-SQL_Intermediate-2EC866?style=flat-square) | SQL Intermediate | ✅ Passed |
-| ![HackerRank](https://img.shields.io/badge/HackerRank-Python_Basic-2EC866?style=flat-square) | Python Basic | ✅ Passed |
-| ![HackerRank](https://img.shields.io/badge/HackerRank-Problem_Solving-2EC866?style=flat-square) | Problem Solving | ✅ Passed |
-| ![Harvard](https://img.shields.io/badge/Harvard-CS50P-A51C30?style=flat-square) | CS50's Python | ✅ Verified |
-| ![IBM](https://img.shields.io/badge/IBM-Data_Analyst_Professional-054ADA?style=flat-square) | Data Analyst | ✅ 9 Courses |
-| ![Microsoft](https://img.shields.io/badge/Microsoft-Applied_Skills-0078D4?style=flat-square) | GitHub Actions | ✅ Lab-Based |
-| ![MongoDB](https://img.shields.io/badge/MongoDB-10_Skill_Badges-47A248?style=flat-square) | Full Stack | ✅ Core → AI Agents |
+| ![Harvard](https://img.shields.io/badge/Harvard-CS50P-A51C30?style=flat-square&logo=harvard&logoColor=white) | CS50's Python | ✅ Verified |
+| ![IBM](https://img.shields.io/badge/IBM-Data_Analyst_Professional-054ADA?style=flat-square&logo=ibm&logoColor=white) | Data Analyst | ✅ 9 Courses |
+| ![Microsoft](https://img.shields.io/badge/Microsoft-Applied_Skills-0078D4?style=flat-square&logo=microsoft&logoColor=white) | GitHub Actions | ✅ Lab-Based |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-Core_Concepts-47A248?style=flat-square&logo=mongodb&logoColor=white) | Overview & Architecture | ✅ Skill Badge |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-CRUD_Operations-47A248?style=flat-square&logo=mongodb&logoColor=white) | CRUD Operations | ✅ Skill Badge |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-Aggregation-47A248?style=flat-square&logo=mongodb&logoColor=white) | Aggregation Fundamentals | ✅ Skill Badge |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-Indexing-47A248?style=flat-square&logo=mongodb&logoColor=white) | Indexing Design | ✅ Skill Badge |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-Relational_Migration-47A248?style=flat-square&logo=mongodb&logoColor=white) | Relational to Document | ✅ Skill Badge |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-Query_Optimization-47A248?style=flat-square&logo=mongodb&logoColor=white) | Query Optimization | ✅ Skill Badge |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-RAG_Apps-47A248?style=flat-square&logo=mongodb&logoColor=white) | Building RAG Apps | ✅ Skill Badge |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-AI_Strategy-47A248?style=flat-square&logo=mongodb&logoColor=white) | AI Strategy | ✅ Skill Badge |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-AI_Agents-47A248?style=flat-square&logo=mongodb&logoColor=white) | Building AI Agents | ✅ Skill Badge |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-Vector_Search-47A248?style=flat-square&logo=mongodb&logoColor=white) | Vector Search | ✅ Skill Badge |
+| ![KodeKloud](https://img.shields.io/badge/KodeKloud-Docker_Crash_Course-1A6DFF?style=flat-square&logo=docker&logoColor=white) | Docker Crash Course | ✅ Certified |
+| ![KodeKloud](https://img.shields.io/badge/KodeKloud-Docker_Full_Course-1A6DFF?style=flat-square&logo=docker&logoColor=white) | Docker Training Full | ✅ Certified |
+| ![KodeKloud](https://img.shields.io/badge/KodeKloud-AWS_Basics-1A6DFF?style=flat-square&logo=amazonaws&logoColor=white) | AWS Basics | ✅ Certified |
+| ![KodeKloud](https://img.shields.io/badge/KodeKloud-AI_Powered_DevOps-1A6DFF?style=flat-square&logo=openai&logoColor=white) | AI-Powered DevOps | ✅ Certified |
+| ![KodeKloud](https://img.shields.io/badge/KodeKloud-MCP_Beginners-1A6DFF?style=flat-square&logo=anthropic&logoColor=white) | MCP For Beginners | ✅ Certified |
+| ![KodeKloud](https://img.shields.io/badge/KodeKloud-AWS_ECS-1A6DFF?style=flat-square&logo=amazonaws&logoColor=white) | AWS ECS (Fargate) | ✅ Certified |
+| ![HackerRank](https://img.shields.io/badge/HackerRank-Python_Basic-2EC866?style=flat-square&logo=hackerrank&logoColor=white) | Python Basic | ✅ Certified |
+| ![HackerRank](https://img.shields.io/badge/HackerRank-SQL_Basic-2EC866?style=flat-square&logo=hackerrank&logoColor=white) | SQL Basic | ✅ Certified |
+| ![HackerRank](https://img.shields.io/badge/HackerRank-SQL_Intermediate-2EC866?style=flat-square&logo=hackerrank&logoColor=white) | SQL Intermediate | ✅ Certified |
+| ![HackerRank](https://img.shields.io/badge/HackerRank-SQL_Advanced-2EC866?style=flat-square&logo=hackerrank&logoColor=white) | SQL Advanced | ✅ Certified |
+| ![HackerRank](https://img.shields.io/badge/HackerRank-Problem_Solving_Basic-2EC866?style=flat-square&logo=hackerrank&logoColor=white) | Problem Solving Basic | ✅ Certified |
+| ![HackerRank](https://img.shields.io/badge/HackerRank-Problem_Solving_Inter-2EC866?style=flat-square&logo=hackerrank&logoColor=white) | Problem Solving Intermediate | ✅ Certified |
+| ![HackerRank](https://img.shields.io/badge/HackerRank-REST_API_Inter-2EC866?style=flat-square&logo=hackerrank&logoColor=white) | REST API Intermediate | ✅ Certified |
+| ![HackerRank](https://img.shields.io/badge/HackerRank-Node.js_Basic-2EC866?style=flat-square&logo=nodedotjs&logoColor=white) | Node.js Basic | ✅ Certified |
+| ![HackerRank](https://img.shields.io/badge/HackerRank-Node.js_Inter-2EC866?style=flat-square&logo=nodedotjs&logoColor=white) | Node.js Intermediate | ✅ Certified |
+| ![AWS](https://img.shields.io/badge/AWS-Serverless_Demonstrated-FF9900?style=flat-square&logo=amazonaws&logoColor=white) | Serverless Microcredential | ✅ Credly Badge |
+| ![AWS](https://img.shields.io/badge/AWS-App_Networking_Demonstrated-FF9900?style=flat-square&logo=amazonaws&logoColor=white) | Application Networking | ✅ Credly Badge |
+| ![GoogleCloud](https://img.shields.io/badge/Google_Cloud-Intro_to_GenAI-4285F4?style=flat-square&logo=googlecloud&logoColor=white) | Introduction to Generative AI | ✅ Completion Badge |
+| ![GoogleCloud](https://img.shields.io/badge/Google_Cloud-Vertex_AI_Gemini-4285F4?style=flat-square&logo=googlecloud&logoColor=white) | Explore Gen AI · Gemini API | ✅ Skill Badge · Intermediate |
+| ![GoogleCloud](https://img.shields.io/badge/Google_Cloud-Gemini_Streamlit-4285F4?style=flat-square&logo=googlecloud&logoColor=white) | Develop GenAI Apps · Streamlit | ✅ Skill Badge · Intermediate |
+<!-- /AUTO:CERTIFICATIONS -->
 
 </div>
 <div align="center">
@@ -124,21 +159,20 @@ class SandiRidwan:
 
 ## `$ credly --list-badges --user sandi-r`
 
-> 🏆 **21 verified badges** · Auto-updated daily · [View all on Credly →](https://www.credly.com/users/sandi-r)
+> 🏆 **24 verified badges** · Auto-updated daily · [View all on Credly →](https://www.credly.com/users/sandi-r)
 
 <div align="center">
 
-<!-- STATS -->
 <!-- OVERVIEW — stats + carousel gabungan -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://credly-readme-stats.onrender.com/api/overview?username=sandi-r&theme=github_dark&title_color=00FF9C&icon_color=00FF9C&hide_border=true&visible_count=6&badge_size=64&max_items=30&card_width=700&sort=oldest" />
-  <source media="(prefers-color-scheme: light)" srcset="https://credly-readme-stats.onrender.com/api/overview?username=sandi-r&theme=github_light&title_color=00AA66&icon_color=00AA66&hide_border=true&visible_count=6&badge_size=64&max_items=30&card_width=700&sort=oldest" />
-  <img alt="Credly Overview" src="https://credly-readme-stats.onrender.com/api/overview?username=sandi-r&theme=github_dark&title_color=00FF9C&icon_color=00FF9C&hide_border=true&visible_count=6&badge_size=64&max_items=30&card_width=700&sort=oldest" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://credly-readme-stats.onrender.com/api/overview?username=sandi-r&theme=github_dark&title_color=00FF9C&icon_color=00FF9C&hide_border=true&visible_count=6&badge_size=64&max_items=30&card_width=700" />
+  <source media="(prefers-color-scheme: light)" srcset="https://credly-readme-stats.onrender.com/api/overview?username=sandi-r&theme=github_light&title_color=00AA66&icon_color=00AA66&hide_border=true&visible_count=6&badge_size=64&max_items=30&card_width=700" />
+  <img alt="Credly Overview" src="https://credly-readme-stats.onrender.com/api/overview?username=sandi-r&theme=github_dark&title_color=00FF9C&icon_color=00FF9C&hide_border=true&visible_count=6&badge_size=64&max_items=30&card_width=700" width="100%"/>
 </picture>
 
 <br/>
 
-<!-- GRID — 6 kolom x 4 baris = semua 21 badge tampil -->
+<!-- GRID — 6 kolom x 4 baris = semua 24 badge tampil -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://credly-readme-stats.onrender.com/api/grid?username=sandi-r&theme=github_dark&title_color=00FF9C&hide_border=true&columns=6&rows=4&badge_size=64" />
   <source media="(prefers-color-scheme: light)" srcset="https://credly-readme-stats.onrender.com/api/grid?username=sandi-r&theme=github_light&title_color=00AA66&hide_border=true&columns=6&rows=4&badge_size=64" />
@@ -147,14 +181,12 @@ class SandiRidwan:
 
 <br/>
 
-<!-- TIMELINE — semua 21 badge kronologis -->
+<!-- TIMELINE — semua 24 badge kronologis -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://credly-readme-stats.onrender.com/api/timeline?username=sandi-r&theme=github_dark&title_color=00FF9C&hide_border=true&max_items=21&show_skills=true&sort=oldest&card_width=700" />
-  <source media="(prefers-color-scheme: light)" srcset="https://credly-readme-stats.onrender.com/api/timeline?username=sandi-r&theme=github_light&title_color=00AA66&hide_border=true&max_items=21&show_skills=true&sort=oldest&card_width=700" />
-  <img alt="Credly Timeline" src="https://credly-readme-stats.onrender.com/api/timeline?username=sandi-r&theme=github_dark&title_color=00FF9C&hide_border=true&max_items=21&show_skills=true&sort=oldest&card_width=700" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://credly-readme-stats.onrender.com/api/timeline?username=sandi-r&theme=github_dark&title_color=00FF9C&hide_border=true&max_items=30&show_skills=true&sort=oldest&card_width=700" />
+  <source media="(prefers-color-scheme: light)" srcset="https://credly-readme-stats.onrender.com/api/timeline?username=sandi-r&theme=github_light&title_color=00AA66&hide_border=true&max_items=30&show_skills=true&sort=oldest&card_width=700" />
+  <img alt="Credly Timeline" src="https://credly-readme-stats.onrender.com/api/timeline?username=sandi-r&theme=github_dark&title_color=00FF9C&hide_border=true&max_items=30&show_skills=true&sort=oldest&card_width=700" width="100%"/>
 </picture>
-
-<br/>
 
 </div>
 <div align="center">
@@ -173,6 +205,7 @@ class SandiRidwan:
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="380" alt="data processing gif"/>
 </div>
 
+<!-- AUTO:PROJECTS -->
 ### 🏛️ P19 — Connecticut Court Scraper `[$500]`
 > **224,000 court cases** extracted from ASP.NET WebForms government portal. VIEWSTATE bypass, TLS fingerprint evasion, binary search range discovery, thread-safe parallel scraping. Delivered as **41.2MB 9-tab relational Excel**.
 
@@ -216,6 +249,7 @@ Stack: Make.com · Calendly · Monday.com · Claude API · Groq (Llama 3.1)
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" alt="hacker gif"/>
 </div>
 
+<!-- AUTO:ANTIBOT -->
 ```
 ┌─────────────────────────────────────────────────────┐
 │  BYPASS TECHNIQUES — PROVEN IN PRODUCTION           │
@@ -232,6 +266,7 @@ Stack: Make.com · Calendly · Monday.com · Claude API · Groq (Llama 3.1)
 │  ✓ Pagination-less Sites     binary search pattern  │
 └─────────────────────────────────────────────────────┘
 ```
+<!-- /AUTO:ANTIBOT -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
@@ -246,6 +281,7 @@ Stack: Make.com · Calendly · Monday.com · Claude API · Groq (Llama 3.1)
 
 <div align="center">
 
+<!-- AUTO:TECH_STACK -->
 **Languages & Core**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -277,6 +313,7 @@ Stack: Make.com · Calendly · Monday.com · Claude API · Groq (Llama 3.1)
 
 ![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logoColor=white)
+<!-- /AUTO:TECH_STACK -->
 
 </div>
 <div align="center">
