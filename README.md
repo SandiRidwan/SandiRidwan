@@ -107,6 +107,22 @@ class SandiRidwan:
 <!-- /AUTO:TOTAL_CREDENTIALS -->
 
 <!-- AUTO:CERTIFICATIONS -->
+| Platform | Highlights | Count |
+|:---:|:---|:---:|
+| <img src="https://img.shields.io/badge/TestDome-FFD700?style=flat-square&logoColor=white" alt="TestDome"/> | TestDome Python — Top 10% · TestDome SQL — Top 10% | `2` |
+| <img src="https://img.shields.io/badge/Harvard-A51C30?style=flat-square&logoColor=white" alt="Harvard"/> | CS50P — Introduction to P | `1` |
+| <img src="https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft"/> | GitHub Actions | `1` |
+| <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | From Relational Model (SQ · Building AI-Powered Searc · Building RAG Apps Using M · CRUD Operations in MongoD · _+12 more_ | `16` |
+| <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/> | HackerRank Python (Basic) · HackerRank SQL (Basic) · HackerRank SQL (Intermedi · HackerRank SQL (Advanced) · _+5 more_ | `9` |
+| <img src="https://img.shields.io/badge/KodeKloud-1A6DFF?style=flat-square&logo=docker&logoColor=white" alt="KodeKloud"/> | Docker Crash Course · Docker Training Full Cour · AWS Basics · AI-Powered DevOps · _+2 more_ | `6` |
+| <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/> | AWS Serverless Demonstrat · AWS Application Networkin · Serverless Demonstrated · Application Networking De | `4` |
+| <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google_Cloud"/> | Develop GenAI Apps with G · Get Started with API Gate · Explore Generative AI wit · Automate Data Capture at  · _+5 more_ | `9` |
+| <img src="https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white" alt="Coursera"/> | Python for Data Science a · Databases and SQL for Dat · Data Analysis with Python · Data Analytics Essentials · _+7 more_ | `11` |
+| <img src="https://img.shields.io/badge/Cursa-555555?style=flat-square&logoColor=white" alt="Cursa"/> | FastAPI for Beginners · Docker for Beginners | `2` |
+
+<details>
+<summary>📋 View all 61 credentials in detail</summary>
+
 | Platform | Certification | Result |
 |:---:|:---|:---:|
 | <img src="https://img.shields.io/badge/TestDome-FFD700?style=flat-square&logoColor=white" alt="TestDome"/> | **TestDome** | `2 certs` |
@@ -130,7 +146,12 @@ class SandiRidwan:
 | <img src="https://img.shields.io/badge/MongoDB_Overview:_Co-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | MongoDB Overview: Core Concepts and Architecture | ✅ Foundational |
 | <img src="https://img.shields.io/badge/MongoDB_Indexing_Des-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | MongoDB Indexing Design Fundamentals | ✅ Foundational |
 | <img src="https://img.shields.io/badge/AI_and_Innovation:_H-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | AI and Innovation: How MongoDB Enables a Resilient AI Strategy | ✅ Foundational |
-| | _...and 6 more_ | |
+| <img src="https://img.shields.io/badge/MongoDB_CRUD_Operati-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | MongoDB CRUD Operations 📋 | ✅ Foundational |
+| <img src="https://img.shields.io/badge/MongoDB:_From_Relati-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | MongoDB: From Relational to Document Model 📋 | ✅ Foundational |
+| <img src="https://img.shields.io/badge/MongoDB:_Building_RA-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | MongoDB: Building RAG Apps 📋 | ✅ Intermediate |
+| <img src="https://img.shields.io/badge/MongoDB_AI_Strategy-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | MongoDB AI Strategy 📋 | ✅ Foundational |
+| <img src="https://img.shields.io/badge/MongoDB:_Building_AI-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | MongoDB: Building AI Agents 📋 | ✅ Intermediate |
+| <img src="https://img.shields.io/badge/MongoDB_Vector_Searc-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | MongoDB Vector Search Fundamentals 📋 | ✅ Foundational |
 | | | |
 | <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/> | **HackerRank** | `9 certs` |
 | <img src="https://img.shields.io/badge/HackerRank_Python_(B-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/> | HackerRank Python (Basic) 📋 | ✅ Certified |
@@ -151,9 +172,11 @@ class SandiRidwan:
 | <img src="https://img.shields.io/badge/KodeKloud:_MCP_For_B-1A6DFF?style=flat-square&logo=docker&logoColor=white" alt="KodeKloud"/> | KodeKloud: MCP For Beginners 📋 | ✅ Certified |
 | <img src="https://img.shields.io/badge/KodeKloud:_AWS_ECS-1A6DFF?style=flat-square&logo=docker&logoColor=white" alt="KodeKloud"/> | KodeKloud: AWS ECS 📋 | ✅ Certified |
 | | | |
-| <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/> | **AWS** | `2 certs` |
+| <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/> | **AWS** | `4 certs` |
 | <img src="https://img.shields.io/badge/AWS_Serverless_Demon-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/> | AWS Serverless Demonstrated | ✅ Credly Badge |
 | <img src="https://img.shields.io/badge/AWS_Application_Netw-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/> | AWS Application Networking Demonstrated | ✅ Credly Badge |
+| <img src="https://img.shields.io/badge/AWS_Microcredential:-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/> | AWS Microcredential: Serverless Demonstrated 📋 | ✅ Credly Badge |
+| <img src="https://img.shields.io/badge/AWS_Microcredential:-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/> | AWS Microcredential: Application Networking Demonstrated 📋 | ✅ Credly Badge |
 | | | |
 | <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google_Cloud"/> | **Google Cloud** | `9 certs` |
 | <img src="https://img.shields.io/badge/Develop_GenAI_Apps_w-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google_Cloud"/> | Develop GenAI Apps with Gemini and Streamlit Skill Badge | ✅ Skill Badge |
@@ -177,16 +200,14 @@ class SandiRidwan:
 | <img src="https://img.shields.io/badge/Data_Visualization_&-0056D2?style=flat-square&logo=coursera&logoColor=white" alt="Coursera"/> | Data Visualization & Dashboard Essentials | ✅ Demonstrated |
 | <img src="https://img.shields.io/badge/Data_Analyst_Profess-0056D2?style=flat-square&logo=coursera&logoColor=white" alt="Coursera"/> | Data Analyst Professional Certificate | ✅ Professional Certificate |
 | <img src="https://img.shields.io/badge/Data_Analysis_&_Visu-0056D2?style=flat-square&logo=coursera&logoColor=white" alt="Coursera"/> | Data Analysis & Visualization Foundations Specialization (V3) | ✅ Demonstrated |
-| | _...and 1 more_ | |
+| <img src="https://img.shields.io/badge/IBM_Data_Analyst_Pro-0056D2?style=flat-square&logo=coursera&logoColor=white" alt="Coursera"/> | IBM Data Analyst Professional Certificate 📋 | ✅ Professional Certificate |
 | | | |
 | <img src="https://img.shields.io/badge/Cursa-555555?style=flat-square&logoColor=white" alt="Cursa"/> | **Cursa** | `2 certs` |
 | <img src="https://img.shields.io/badge/FastAPI_for_Beginner-555555?style=flat-square&logoColor=white" alt="Cursa"/> | FastAPI for Beginners 📋 | ✅ Certified |
 | <img src="https://img.shields.io/badge/Docker_for_Beginners-555555?style=flat-square&logoColor=white" alt="Cursa"/> | Docker for Beginners 📋 | ✅ Certified |
 | | | |
-| <img src="https://img.shields.io/badge/AWS_Skill_Builder-555555?style=flat-square&logoColor=white" alt="AWS_Skill_Builder"/> | **AWS Skill Builder** | `2 certs` |
-| <img src="https://img.shields.io/badge/AWS_Microcredential:-555555?style=flat-square&logoColor=white" alt="AWS_Skill_Builder"/> | AWS Microcredential: Serverless Demonstrated 📋 | ✅ Credly Badge |
-| <img src="https://img.shields.io/badge/AWS_Microcredential:-555555?style=flat-square&logoColor=white" alt="AWS_Skill_Builder"/> | AWS Microcredential: Application Networking Demonstrated 📋 | ✅ Credly Badge |
-| | | |
+
+</details>
 <!-- /AUTO:CERTIFICATIONS -->
 
 </div>
