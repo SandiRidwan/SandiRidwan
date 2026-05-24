@@ -103,7 +103,7 @@ class SandiRidwan:
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 
 <!-- AUTO:TOTAL_CREDENTIALS -->
-**61 verified credentials** · Last updated: ** 21 Mei 2026 | **Total Projects:** 21
+**63 verified credentials** · Last updated: ** 21 Mei 2026 | **Total Projects:** 21
 <!-- /AUTO:TOTAL_CREDENTIALS -->
 
 <!-- AUTO:CERTIFICATIONS -->
@@ -116,12 +116,12 @@ class SandiRidwan:
 | <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/> | HackerRank Python (Basic) · HackerRank SQL (Basic) · HackerRank SQL (Intermedi · HackerRank SQL (Advanced) · _+5 more_ | `9` |
 | <img src="https://img.shields.io/badge/KodeKloud-1A6DFF?style=flat-square&logo=docker&logoColor=white" alt="KodeKloud"/> | Docker Crash Course · Docker Training Full Cour · AWS Basics · AI-Powered DevOps · _+2 more_ | `6` |
 | <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/> | AWS Serverless Demonstrat · AWS Application Networkin · Serverless Demonstrated · Application Networking De | `4` |
-| <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google_Cloud"/> | Develop GenAI Apps with G · Get Started with API Gate · Explore Generative AI wit · Automate Data Capture at  · _+5 more_ | `9` |
+| <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google_Cloud"/> | Develop GenAI Apps with G · Get Started with API Gate · Derive Insights from BigQ · Explore Generative AI wit · _+7 more_ | `11` |
 | <img src="https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white" alt="Coursera"/> | Python for Data Science a · Databases and SQL for Dat · Data Analysis with Python · Data Analytics Essentials · _+7 more_ | `11` |
 | <img src="https://img.shields.io/badge/Cursa-555555?style=flat-square&logoColor=white" alt="Cursa"/> | FastAPI for Beginners · Docker for Beginners | `2` |
 
 <details>
-<summary>📋 View all 61 credentials in detail</summary>
+<summary>📋 View all 63 credentials in detail</summary>
 
 | Platform | Certification | Result |
 |:---:|:---|:---:|
@@ -178,9 +178,10 @@ class SandiRidwan:
 | <img src="https://img.shields.io/badge/AWS_Microcredential:-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/> | AWS Microcredential: Serverless Demonstrated 📋 | ✅ Credly Badge |
 | <img src="https://img.shields.io/badge/AWS_Microcredential:-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/> | AWS Microcredential: Application Networking Demonstrated 📋 | ✅ Credly Badge |
 | | | |
-| <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google_Cloud"/> | **Google Cloud** | `9 certs` |
+| <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google_Cloud"/> | **Google Cloud** | `11 certs` |
 | <img src="https://img.shields.io/badge/Develop_GenAI_Apps_w-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google_Cloud"/> | Develop GenAI Apps with Gemini and Streamlit Skill Badge | ✅ Skill Badge |
 | <img src="https://img.shields.io/badge/Get_Started_with_API-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google_Cloud"/> | Get Started with API Gateway Skill Badge | ✅ Skill Badge |
+| <img src="https://img.shields.io/badge/Derive_Insights_from-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google_Cloud"/> | Derive Insights from BigQuery Data Skill Badge | ✅ Skill Badge |
 | <img src="https://img.shields.io/badge/Explore_Generative_A-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google_Cloud"/> | Explore Generative AI with the Vertex AI Gemini API Skill Badge | ✅ Skill Badge |
 | <img src="https://img.shields.io/badge/Automate_Data_Captur-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google_Cloud"/> | Automate Data Capture at Scale with Document AI Skill Badge | ✅ Skill Badge |
 | <img src="https://img.shields.io/badge/Google_Cloud:_Introd-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google_Cloud"/> | Google Cloud: Introduction to Generative AI 📋 | ✅ Foundational |
@@ -188,6 +189,7 @@ class SandiRidwan:
 | <img src="https://img.shields.io/badge/Google_Cloud:_Develo-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google_Cloud"/> | Google Cloud: Develop GenAI Apps with Gemini and Streamlit 📋 | ✅ Skill Badge |
 | <img src="https://img.shields.io/badge/Google_Cloud:_Get_St-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google_Cloud"/> | Google Cloud: Get Started with API Gateway 📋 | ✅ Skill Badge |
 | <img src="https://img.shields.io/badge/Google_Cloud:_Automa-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google_Cloud"/> | Google Cloud: Automate Data Capture at Scale with Document AI 📋 | ✅ Skill Badge |
+| <img src="https://img.shields.io/badge/Google_Cloud:_Derive-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google_Cloud"/> | Google Cloud: Derive Insights from BigQuery Data 📋 | ✅ Skill Badge |
 | | | |
 | <img src="https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white" alt="Coursera"/> | **Coursera** | `11 certs` |
 | <img src="https://img.shields.io/badge/Python_for_Data_Scie-0056D2?style=flat-square&logo=coursera&logoColor=white" alt="Coursera"/> | Python for Data Science and AI | ✅ Intermediate |
