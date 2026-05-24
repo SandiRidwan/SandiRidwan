@@ -107,45 +107,46 @@ class SandiRidwan:
 <!-- /AUTO:TOTAL_CREDENTIALS -->
 
 <!-- AUTO:CERTIFICATIONS -->
-| Sertifikat | Issuer | Tanggal |
-|---|---|---|
-| IBM Data Analyst Professional Certificate | IBM / Coursera | Mei 7, 2026 |
-| Microsoft Applied Skills: GitHub Actions | Microsoft | 18 Mei 2026 |
-| MongoDB Overview: Core Concepts and Architecture | MongoDB | 19 Mei 2026 |
-| MongoDB CRUD Operations | MongoDB | 19 Mei 2026 |
-| MongoDB Aggregation Fundamentals | MongoDB | 19 Mei 2026 |
-| MongoDB Indexing Design Fundamentals | MongoDB | 19 Mei 2026 |
-| MongoDB: From Relational to Document Model | MongoDB | 19 Mei 2026 |
-| MongoDB Query Optimization Techniques | MongoDB | 19 Mei 2026 |
-| MongoDB: Building RAG Apps | MongoDB | 19 Mei 2026 |
-| MongoDB AI Strategy | MongoDB | 19 Mei 2026 |
-| MongoDB: Building AI Agents | MongoDB | 19 Mei 2026 |
-| MongoDB Vector Search Fundamentals | MongoDB | 19 Mei 2026 |
-| FastAPI for Beginners | Cursa | Mei 5, 2026 |
-| Docker for Beginners | Cursa | Mei 6, 2026 |
-| KodeKloud: Docker Crash Course | KodeKloud | 20 Mei 2026 |
-| KodeKloud: Docker Training Full Course | KodeKloud | 20 Mei 2026 |
-| KodeKloud: AWS Basics | KodeKloud | 20 Mei 2026 |
-| KodeKloud: AI-Powered DevOps | KodeKloud | 20 Mei 2026 |
-| KodeKloud: MCP For Beginners | KodeKloud | 20 Mei 2026 |
-| KodeKloud: AWS ECS | KodeKloud | 20 Mei 2026 |
-| HackerRank Python (Basic) | HackerRank | 20 Mei 2026 |
-| HackerRank SQL (Basic) | HackerRank | 20 Mei 2026 |
-| HackerRank SQL (Intermediate) | HackerRank | 20 Mei 2026 |
-| HackerRank SQL (Advanced) | HackerRank | 20 Mei 2026 |
-| HackerRank Problem Solving (Basic) | HackerRank | 20 Mei 2026 |
-| HackerRank Problem Solving (Intermediate) | HackerRank | 21 Mei 2026 |
-| HackerRank REST API (Intermediate) | HackerRank | 21 Mei 2026 |
-| HackerRank Node (Basic) | HackerRank | 21 Mei 2026 |
-| HackerRank Node.js (Intermediate) | HackerRank | 21 Mei 2026 |
-| AWS Microcredential: Serverless Demonstrated | AWS Skill Builder | 21 Mei 2026 |
-| AWS Microcredential: Application Networking Demonstrated | AWS Skill Builder | 23 Mei 2026 |
-| AWS Microcredential: Agentic AI Demonstrated | AWS Skill Builder | — |
-| AWS Microcredential: Incident Response Demonstrated | AWS Skill Builder | — |
-| Google Cloud: Introduction to Generative AI | Google Cloud Skills Boost | 23 Mei 2026 |
-| Google Cloud: Explore Gen AI with Vertex AI Gemini API | Google Cloud Skills Boost | 23 Mei 2026 |
-| Google Cloud: Develop GenAI Apps with Gemini and Streamlit | Google Cloud Skills Boost | 23 Mei 2026 |
-| Google Cloud: Get Started with API Gateway | Google Cloud Skills Boost | 24 Mei 2026 |
+| Platform | Certification | Result |
+|:---:|:---:|:---:|
+| ![Harvard](https://img.shields.io/badge/Harvard-CS50P_—_Introduction_to_Progra-A51C30?style=flat-square&logo=harvard&logoColor=white) | CS50P — Introduction to Programming with Python | ✅ Passed |
+| ![IBM](https://img.shields.io/badge/IBM-IBM_Data_Analyst_Professional_-054ADA?style=flat-square&logo=ibm&logoColor=white) | IBM Data Analyst Professional Certificate | ✅ Professional Certificate |
+| ![TestDome](https://img.shields.io/badge/TestDome-TestDome_Python_—_Top_10%-FFD700?style=flat-square&logoColor=black) | TestDome Python — Top 10% | 🥇 **Top 10% Global** |
+| ![TestDome](https://img.shields.io/badge/TestDome-TestDome_SQL_—_Top_10%-FFD700?style=flat-square&logoColor=black) | TestDome SQL — Top 10% | 🥇 **Top 10% Global** |
+| ![Microsoft](https://img.shields.io/badge/Microsoft-GitHub_Actions-0078D4?style=flat-square&logo=microsoft&logoColor=white) | Microsoft Applied Skills: GitHub Actions | ✅ Lab-Based |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-Core_Concepts_and_Architecture-47A248?style=flat-square&logo=mongodb&logoColor=white) | Overview: Core Concepts and Architecture | ✅ Passed |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-MongoDB_CRUD_Operations-47A248?style=flat-square&logo=mongodb&logoColor=white) | CRUD Operations | ✅ Passed |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-MongoDB_Aggregation_Fundamenta-47A248?style=flat-square&logo=mongodb&logoColor=white) | Aggregation Fundamentals | ✅ Passed |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-MongoDB_Indexing_Design_Fundam-47A248?style=flat-square&logo=mongodb&logoColor=white) | Indexing Design Fundamentals | ✅ Passed |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-From_Relational_to_Document_Mo-47A248?style=flat-square&logo=mongodb&logoColor=white) | From Relational to Document Model | ✅ Passed |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-MongoDB_Query_Optimization_Tec-47A248?style=flat-square&logo=mongodb&logoColor=white) | Query Optimization Techniques | ✅ Passed |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-Building_RAG_Apps-47A248?style=flat-square&logo=mongodb&logoColor=white) | Building RAG Apps | ✅ Passed |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-MongoDB_AI_Strategy-47A248?style=flat-square&logo=mongodb&logoColor=white) | AI Strategy | ✅ Passed |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-Building_AI_Agents-47A248?style=flat-square&logo=mongodb&logoColor=white) | Building AI Agents | ✅ Passed |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-MongoDB_Vector_Search_Fundamen-47A248?style=flat-square&logo=mongodb&logoColor=white) | Vector Search Fundamentals | ✅ Passed |
+| ![Cursa](https://img.shields.io/badge/Cursa-555555?style=flat-square&logoColor=white) | FastAPI for Beginners | ✅ Passed |
+| ![Cursa](https://img.shields.io/badge/Cursa-555555?style=flat-square&logoColor=white) | Docker for Beginners | ✅ Passed |
+| ![KodeKloud](https://img.shields.io/badge/KodeKloud-Docker_Crash_Course-1A6DFF?style=flat-square&logo=docker&logoColor=white) | Docker Crash Course | ✅ Passed |
+| ![KodeKloud](https://img.shields.io/badge/KodeKloud-Docker_Training_Full_Course-1A6DFF?style=flat-square&logo=docker&logoColor=white) | Docker Training Full Course | ✅ Passed |
+| ![KodeKloud](https://img.shields.io/badge/KodeKloud-AWS_Basics-1A6DFF?style=flat-square&logo=docker&logoColor=white) | Basics | ✅ Passed |
+| ![KodeKloud](https://img.shields.io/badge/KodeKloud-AI_Powered_DevOps-1A6DFF?style=flat-square&logo=docker&logoColor=white) | AI-Powered DevOps | ✅ Passed |
+| ![KodeKloud](https://img.shields.io/badge/KodeKloud-MCP_For_Beginners-1A6DFF?style=flat-square&logo=docker&logoColor=white) | MCP For Beginners | ✅ Passed |
+| ![KodeKloud](https://img.shields.io/badge/KodeKloud-AWS_ECS-1A6DFF?style=flat-square&logo=docker&logoColor=white) | ECS | ✅ Passed |
+| ![HackerRank](https://img.shields.io/badge/HackerRank-HackerRank_Python_(Basic)-2EC866?style=flat-square&logo=hackerrank&logoColor=white) | Python (Basic) | ✅ Passed |
+| ![HackerRank](https://img.shields.io/badge/HackerRank-HackerRank_SQL_(Basic)-2EC866?style=flat-square&logo=hackerrank&logoColor=white) | SQL (Basic) | ✅ Passed |
+| ![HackerRank](https://img.shields.io/badge/HackerRank-HackerRank_SQL_(Intermediate)-2EC866?style=flat-square&logo=hackerrank&logoColor=white) | SQL (Intermediate) | ✅ Passed |
+| ![HackerRank](https://img.shields.io/badge/HackerRank-HackerRank_SQL_(Advanced)-2EC866?style=flat-square&logo=hackerrank&logoColor=white) | SQL (Advanced) | ✅ Passed |
+| ![HackerRank](https://img.shields.io/badge/HackerRank-HackerRank_Problem_Solving_(Ba-2EC866?style=flat-square&logo=hackerrank&logoColor=white) | Problem Solving (Basic) | ✅ Passed |
+| ![HackerRank](https://img.shields.io/badge/HackerRank-HackerRank_Problem_Solving_(In-2EC866?style=flat-square&logo=hackerrank&logoColor=white) | Problem Solving (Intermediate) | ✅ Passed |
+| ![HackerRank](https://img.shields.io/badge/HackerRank-HackerRank_REST_API_(Intermedi-2EC866?style=flat-square&logo=hackerrank&logoColor=white) | REST API (Intermediate) | ✅ Passed |
+| ![HackerRank](https://img.shields.io/badge/HackerRank-HackerRank_Node_(Basic)-2EC866?style=flat-square&logo=hackerrank&logoColor=white) | Node (Basic) | ✅ Passed |
+| ![HackerRank](https://img.shields.io/badge/HackerRank-HackerRank_Node.js_(Intermedia-2EC866?style=flat-square&logo=hackerrank&logoColor=white) | Node.js (Intermediate) | ✅ Passed |
+| ![AWS](https://img.shields.io/badge/AWS-Serverless_Demonstrated-FF9900?style=flat-square&logo=amazonaws&logoColor=white) | Microcredential: Serverless Demonstrated | ✅ Credly Badge |
+| ![AWS](https://img.shields.io/badge/AWS-Application_Networking_Demonst-FF9900?style=flat-square&logo=amazonaws&logoColor=white) | Microcredential: Application Networking Demonstrated | ✅ Credly Badge |
+| ![Google_Cloud](https://img.shields.io/badge/Google_Cloud-Introduction_to_Generative_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white) | Introduction to Generative AI | ✅ Completion Badge |
+| ![Google_Cloud](https://img.shields.io/badge/Google_Cloud-Explore_Gen_AI_with_Vertex_AI_-4285F4?style=flat-square&logo=googlecloud&logoColor=white) | Explore Gen AI with Vertex AI Gemini API | ✅ Skill Badge · Intermediate |
+| ![Google_Cloud](https://img.shields.io/badge/Google_Cloud-Develop_GenAI_Apps_with_Gemini-4285F4?style=flat-square&logo=googlecloud&logoColor=white) | Develop GenAI Apps with Gemini and Streamlit | ✅ Skill Badge · Intermediate |
+| ![Google_Cloud](https://img.shields.io/badge/Google_Cloud-Get_Started_with_API_Gateway-4285F4?style=flat-square&logo=googlecloud&logoColor=white) | Get Started with API Gateway | ✅ Skill Badge · Introductory |
 <!-- /AUTO:CERTIFICATIONS -->
 
 </div>
