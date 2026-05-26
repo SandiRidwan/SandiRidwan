@@ -64,16 +64,16 @@ class SandiRidwan:
         ]
         self.certifications = {
 # AUTO:PYTHON_CERTS
-            "TestDome Python": "Top 10% Global 🥇",
-            "TestDome SQL":    "Top 10% Global 🥇",
-            "HackerRank SQL":  "Advanced ✅",
-            "Harvard CS50P":   "Verified ✅",
-            "IBM Data Analyst":"Professional Certificate ✅",
-            "MongoDB":         "10 Skill Badges ✅",
-            "Microsoft":       "Applied Skills: GitHub Actions ✅",
-            "AWS":             "Serverless + Networking Demonstrated ✅",
-            "Google Cloud":    "Gen AI Skill Badges x2 ✅",
-# /AUTO:PYTHON_CERTS
+            "Google Cloud          ": "✅ Skill Badge",
+            "MongoDB               ": "✅ Foundational",
+            "AWS                   ": "✅ Credly Badge",
+            "Harvard               ": "✅ Certified",
+            "Coursera              ": "✅ Professional Certificate",
+            "TestDome              ": "🥇 Top 10% Global",
+            "Microsoft             ": "✅ Lab-Based",
+            "KodeKloud             ": "✅ Certified",
+            "AWS Skill Builder     ": "✅ Credly Badge",
+        # /AUTO:PYTHON_CERTS
         }
         self.availability = "OPEN — Freelance & Remote Roles"
 
@@ -103,47 +103,113 @@ class SandiRidwan:
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 
 <!-- AUTO:TOTAL_CREDENTIALS -->
-**37 verified credentials** · Last updated: 23 Mei 2026
+**63 verified credentials** · Last updated: ** 21 Mei 2026 | **Total Projects:** 21
 <!-- /AUTO:TOTAL_CREDENTIALS -->
 
 <!-- AUTO:CERTIFICATIONS -->
+| Platform | Highlights | Count |
+|:---:|:---|:---:|
+| <img src="https://img.shields.io/badge/TestDome-FFD700?style=flat-square&logoColor=white" alt="TestDome"/> | TestDome Python — Top 10% · TestDome SQL — Top 10% | `2` |
+| <img src="https://img.shields.io/badge/Harvard-A51C30?style=flat-square&logoColor=white" alt="Harvard"/> | CS50P — Introduction to P | `1` |
+| <img src="https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft"/> | GitHub Actions | `1` |
+| <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | From Relational Model (SQ · Building AI-Powered Searc · Building RAG Apps Using M · CRUD Operations in MongoD · _+12 more_ | `16` |
+| <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/> | HackerRank Python (Basic) · HackerRank SQL (Basic) · HackerRank SQL (Intermedi · HackerRank SQL (Advanced) · _+5 more_ | `9` |
+| <img src="https://img.shields.io/badge/KodeKloud-1A6DFF?style=flat-square&logo=docker&logoColor=white" alt="KodeKloud"/> | Docker Crash Course · Docker Training Full Cour · AWS Basics · AI-Powered DevOps · _+2 more_ | `6` |
+| <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/> | AWS Serverless Demonstrat · AWS Application Networkin · Serverless Demonstrated · Application Networking De | `4` |
+| <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google_Cloud"/> | Develop GenAI Apps with G · Get Started with API Gate · Derive Insights from BigQ · Explore Generative AI wit · _+7 more_ | `11` |
+| <img src="https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white" alt="Coursera"/> | Python for Data Science a · Databases and SQL for Dat · Data Analysis with Python · Data Analytics Essentials · _+7 more_ | `11` |
+| <img src="https://img.shields.io/badge/Cursa-555555?style=flat-square&logoColor=white" alt="Cursa"/> | FastAPI for Beginners · Docker for Beginners | `2` |
+
+<details>
+<summary>📋 View all 63 credentials in detail</summary>
+
 | Platform | Certification | Result |
-|:---:|:---:|:---:|
-| ![TestDome](https://img.shields.io/badge/TestDome-Python-FFD700?style=flat-square&logoColor=black) | Python | 🥇 **Top 10% Global** |
-| ![TestDome](https://img.shields.io/badge/TestDome-SQL-FFD700?style=flat-square&logoColor=black) | SQL | 🥇 **Top 10% Global** |
-| ![Harvard](https://img.shields.io/badge/Harvard-CS50P-A51C30?style=flat-square&logo=harvard&logoColor=white) | CS50's Python | ✅ Verified |
-| ![IBM](https://img.shields.io/badge/IBM-Data_Analyst_Professional-054ADA?style=flat-square&logo=ibm&logoColor=white) | Data Analyst | ✅ 9 Courses |
-| ![Microsoft](https://img.shields.io/badge/Microsoft-Applied_Skills-0078D4?style=flat-square&logo=microsoft&logoColor=white) | GitHub Actions | ✅ Lab-Based |
-| ![MongoDB](https://img.shields.io/badge/MongoDB-Core_Concepts-47A248?style=flat-square&logo=mongodb&logoColor=white) | Overview & Architecture | ✅ Skill Badge |
-| ![MongoDB](https://img.shields.io/badge/MongoDB-CRUD_Operations-47A248?style=flat-square&logo=mongodb&logoColor=white) | CRUD Operations | ✅ Skill Badge |
-| ![MongoDB](https://img.shields.io/badge/MongoDB-Aggregation-47A248?style=flat-square&logo=mongodb&logoColor=white) | Aggregation Fundamentals | ✅ Skill Badge |
-| ![MongoDB](https://img.shields.io/badge/MongoDB-Indexing-47A248?style=flat-square&logo=mongodb&logoColor=white) | Indexing Design | ✅ Skill Badge |
-| ![MongoDB](https://img.shields.io/badge/MongoDB-Relational_Migration-47A248?style=flat-square&logo=mongodb&logoColor=white) | Relational to Document | ✅ Skill Badge |
-| ![MongoDB](https://img.shields.io/badge/MongoDB-Query_Optimization-47A248?style=flat-square&logo=mongodb&logoColor=white) | Query Optimization | ✅ Skill Badge |
-| ![MongoDB](https://img.shields.io/badge/MongoDB-RAG_Apps-47A248?style=flat-square&logo=mongodb&logoColor=white) | Building RAG Apps | ✅ Skill Badge |
-| ![MongoDB](https://img.shields.io/badge/MongoDB-AI_Strategy-47A248?style=flat-square&logo=mongodb&logoColor=white) | AI Strategy | ✅ Skill Badge |
-| ![MongoDB](https://img.shields.io/badge/MongoDB-AI_Agents-47A248?style=flat-square&logo=mongodb&logoColor=white) | Building AI Agents | ✅ Skill Badge |
-| ![MongoDB](https://img.shields.io/badge/MongoDB-Vector_Search-47A248?style=flat-square&logo=mongodb&logoColor=white) | Vector Search | ✅ Skill Badge |
-| ![KodeKloud](https://img.shields.io/badge/KodeKloud-Docker_Crash_Course-1A6DFF?style=flat-square&logo=docker&logoColor=white) | Docker Crash Course | ✅ Certified |
-| ![KodeKloud](https://img.shields.io/badge/KodeKloud-Docker_Full_Course-1A6DFF?style=flat-square&logo=docker&logoColor=white) | Docker Training Full | ✅ Certified |
-| ![KodeKloud](https://img.shields.io/badge/KodeKloud-AWS_Basics-1A6DFF?style=flat-square&logo=amazonaws&logoColor=white) | AWS Basics | ✅ Certified |
-| ![KodeKloud](https://img.shields.io/badge/KodeKloud-AI_Powered_DevOps-1A6DFF?style=flat-square&logo=openai&logoColor=white) | AI-Powered DevOps | ✅ Certified |
-| ![KodeKloud](https://img.shields.io/badge/KodeKloud-MCP_Beginners-1A6DFF?style=flat-square&logo=anthropic&logoColor=white) | MCP For Beginners | ✅ Certified |
-| ![KodeKloud](https://img.shields.io/badge/KodeKloud-AWS_ECS-1A6DFF?style=flat-square&logo=amazonaws&logoColor=white) | AWS ECS (Fargate) | ✅ Certified |
-| ![HackerRank](https://img.shields.io/badge/HackerRank-Python_Basic-2EC866?style=flat-square&logo=hackerrank&logoColor=white) | Python Basic | ✅ Certified |
-| ![HackerRank](https://img.shields.io/badge/HackerRank-SQL_Basic-2EC866?style=flat-square&logo=hackerrank&logoColor=white) | SQL Basic | ✅ Certified |
-| ![HackerRank](https://img.shields.io/badge/HackerRank-SQL_Intermediate-2EC866?style=flat-square&logo=hackerrank&logoColor=white) | SQL Intermediate | ✅ Certified |
-| ![HackerRank](https://img.shields.io/badge/HackerRank-SQL_Advanced-2EC866?style=flat-square&logo=hackerrank&logoColor=white) | SQL Advanced | ✅ Certified |
-| ![HackerRank](https://img.shields.io/badge/HackerRank-Problem_Solving_Basic-2EC866?style=flat-square&logo=hackerrank&logoColor=white) | Problem Solving Basic | ✅ Certified |
-| ![HackerRank](https://img.shields.io/badge/HackerRank-Problem_Solving_Inter-2EC866?style=flat-square&logo=hackerrank&logoColor=white) | Problem Solving Intermediate | ✅ Certified |
-| ![HackerRank](https://img.shields.io/badge/HackerRank-REST_API_Inter-2EC866?style=flat-square&logo=hackerrank&logoColor=white) | REST API Intermediate | ✅ Certified |
-| ![HackerRank](https://img.shields.io/badge/HackerRank-Node.js_Basic-2EC866?style=flat-square&logo=nodedotjs&logoColor=white) | Node.js Basic | ✅ Certified |
-| ![HackerRank](https://img.shields.io/badge/HackerRank-Node.js_Inter-2EC866?style=flat-square&logo=nodedotjs&logoColor=white) | Node.js Intermediate | ✅ Certified |
-| ![AWS](https://img.shields.io/badge/AWS-Serverless_Demonstrated-FF9900?style=flat-square&logo=amazonaws&logoColor=white) | Serverless Microcredential | ✅ Credly Badge |
-| ![AWS](https://img.shields.io/badge/AWS-App_Networking_Demonstrated-FF9900?style=flat-square&logo=amazonaws&logoColor=white) | Application Networking | ✅ Credly Badge |
-| ![GoogleCloud](https://img.shields.io/badge/Google_Cloud-Intro_to_GenAI-4285F4?style=flat-square&logo=googlecloud&logoColor=white) | Introduction to Generative AI | ✅ Completion Badge |
-| ![GoogleCloud](https://img.shields.io/badge/Google_Cloud-Vertex_AI_Gemini-4285F4?style=flat-square&logo=googlecloud&logoColor=white) | Explore Gen AI · Gemini API | ✅ Skill Badge · Intermediate |
-| ![GoogleCloud](https://img.shields.io/badge/Google_Cloud-Gemini_Streamlit-4285F4?style=flat-square&logo=googlecloud&logoColor=white) | Develop GenAI Apps · Streamlit | ✅ Skill Badge · Intermediate |
+|:---:|:---|:---:|
+| <img src="https://img.shields.io/badge/TestDome-FFD700?style=flat-square&logoColor=white" alt="TestDome"/> | **TestDome** | `2 certs` |
+| <img src="https://img.shields.io/badge/TestDome_Python_—_To-FFD700?style=flat-square&logoColor=white" alt="TestDome"/> | TestDome Python — Top 10% 📋 | 🥇 Top 10% Global |
+| <img src="https://img.shields.io/badge/TestDome_SQL_—_Top_1-FFD700?style=flat-square&logoColor=white" alt="TestDome"/> | TestDome SQL — Top 10% 📋 | 🥇 Top 10% Global |
+| | | |
+| <img src="https://img.shields.io/badge/Harvard-A51C30?style=flat-square&logoColor=white" alt="Harvard"/> | **Harvard** | `1 cert` |
+| <img src="https://img.shields.io/badge/CS50P_—_Introduction-A51C30?style=flat-square&logoColor=white" alt="Harvard"/> | CS50P — Introduction to Programming with Python 📋 | ✅ Certified |
+| | | |
+| <img src="https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft"/> | **Microsoft** | `1 cert` |
+| <img src="https://img.shields.io/badge/Microsoft_Applied_Sk-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft"/> | Microsoft Applied Skills: GitHub Actions 📋 | ✅ Lab-Based |
+| | | |
+| <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | **MongoDB** | `16 certs` |
+| <img src="https://img.shields.io/badge/From_Relational_Mode-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | From Relational Model (SQL) to MongoDB's Document Model | ✅ Foundational |
+| <img src="https://img.shields.io/badge/Building_AI_Powered_-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | Building AI-Powered Search with MongoDB Vector Search | ✅ Foundational |
+| <img src="https://img.shields.io/badge/Building_RAG_Apps_Us-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | Building RAG Apps Using MongoDB | ✅ Foundational |
+| <img src="https://img.shields.io/badge/CRUD_Operations_in_M-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | CRUD Operations in MongoDB | ✅ Foundational |
+| <img src="https://img.shields.io/badge/MongoDB_Aggregation_-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | MongoDB Aggregation Fundamentals | ✅ Foundational |
+| <img src="https://img.shields.io/badge/MongoDB_Query_Optimi-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | MongoDB Query Optimization Techniques | ✅ Foundational |
+| <img src="https://img.shields.io/badge/Building_AI_Agents_w-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | Building AI Agents with MongoDB | ✅ Foundational |
+| <img src="https://img.shields.io/badge/MongoDB_Overview:_Co-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | MongoDB Overview: Core Concepts and Architecture | ✅ Foundational |
+| <img src="https://img.shields.io/badge/MongoDB_Indexing_Des-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | MongoDB Indexing Design Fundamentals | ✅ Foundational |
+| <img src="https://img.shields.io/badge/AI_and_Innovation:_H-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | AI and Innovation: How MongoDB Enables a Resilient AI Strategy | ✅ Foundational |
+| <img src="https://img.shields.io/badge/MongoDB_CRUD_Operati-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | MongoDB CRUD Operations 📋 | ✅ Foundational |
+| <img src="https://img.shields.io/badge/MongoDB:_From_Relati-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | MongoDB: From Relational to Document Model 📋 | ✅ Foundational |
+| <img src="https://img.shields.io/badge/MongoDB:_Building_RA-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | MongoDB: Building RAG Apps 📋 | ✅ Intermediate |
+| <img src="https://img.shields.io/badge/MongoDB_AI_Strategy-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | MongoDB AI Strategy 📋 | ✅ Foundational |
+| <img src="https://img.shields.io/badge/MongoDB:_Building_AI-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | MongoDB: Building AI Agents 📋 | ✅ Intermediate |
+| <img src="https://img.shields.io/badge/MongoDB_Vector_Searc-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | MongoDB Vector Search Fundamentals 📋 | ✅ Foundational |
+| | | |
+| <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/> | **HackerRank** | `9 certs` |
+| <img src="https://img.shields.io/badge/HackerRank_Python_(B-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/> | HackerRank Python (Basic) 📋 | ✅ Certified |
+| <img src="https://img.shields.io/badge/HackerRank_SQL_(Basi-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/> | HackerRank SQL (Basic) 📋 | ✅ Certified |
+| <img src="https://img.shields.io/badge/HackerRank_SQL_(Inte-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/> | HackerRank SQL (Intermediate) 📋 | ✅ Intermediate |
+| <img src="https://img.shields.io/badge/HackerRank_SQL_(Adva-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/> | HackerRank SQL (Advanced) 📋 | ✅ Certified |
+| <img src="https://img.shields.io/badge/HackerRank_Problem_S-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/> | HackerRank Problem Solving (Basic) 📋 | ✅ Certified |
+| <img src="https://img.shields.io/badge/HackerRank_Problem_S-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/> | HackerRank Problem Solving (Intermediate) 📋 | ✅ Intermediate |
+| <img src="https://img.shields.io/badge/HackerRank_REST_API_-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/> | HackerRank REST API (Intermediate) 📋 | ✅ Intermediate |
+| <img src="https://img.shields.io/badge/HackerRank_Node_(Bas-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/> | HackerRank Node (Basic) 📋 | ✅ Certified |
+| <img src="https://img.shields.io/badge/HackerRank_Node.js_(-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/> | HackerRank Node.js (Intermediate) 📋 | ✅ Intermediate |
+| | | |
+| <img src="https://img.shields.io/badge/KodeKloud-1A6DFF?style=flat-square&logo=docker&logoColor=white" alt="KodeKloud"/> | **KodeKloud** | `6 certs` |
+| <img src="https://img.shields.io/badge/KodeKloud:_Docker_Cr-1A6DFF?style=flat-square&logo=docker&logoColor=white" alt="KodeKloud"/> | KodeKloud: Docker Crash Course 📋 | ✅ Certified |
+| <img src="https://img.shields.io/badge/KodeKloud:_Docker_Tr-1A6DFF?style=flat-square&logo=docker&logoColor=white" alt="KodeKloud"/> | KodeKloud: Docker Training Full Course 📋 | ✅ Certified |
+| <img src="https://img.shields.io/badge/KodeKloud:_AWS_Basic-1A6DFF?style=flat-square&logo=docker&logoColor=white" alt="KodeKloud"/> | KodeKloud: AWS Basics 📋 | ✅ Certified |
+| <img src="https://img.shields.io/badge/KodeKloud:_AI_Powere-1A6DFF?style=flat-square&logo=docker&logoColor=white" alt="KodeKloud"/> | KodeKloud: AI-Powered DevOps 📋 | ✅ Certified |
+| <img src="https://img.shields.io/badge/KodeKloud:_MCP_For_B-1A6DFF?style=flat-square&logo=docker&logoColor=white" alt="KodeKloud"/> | KodeKloud: MCP For Beginners 📋 | ✅ Certified |
+| <img src="https://img.shields.io/badge/KodeKloud:_AWS_ECS-1A6DFF?style=flat-square&logo=docker&logoColor=white" alt="KodeKloud"/> | KodeKloud: AWS ECS 📋 | ✅ Certified |
+| | | |
+| <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/> | **AWS** | `4 certs` |
+| <img src="https://img.shields.io/badge/AWS_Serverless_Demon-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/> | AWS Serverless Demonstrated | ✅ Credly Badge |
+| <img src="https://img.shields.io/badge/AWS_Application_Netw-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/> | AWS Application Networking Demonstrated | ✅ Credly Badge |
+| <img src="https://img.shields.io/badge/AWS_Microcredential:-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/> | AWS Microcredential: Serverless Demonstrated 📋 | ✅ Credly Badge |
+| <img src="https://img.shields.io/badge/AWS_Microcredential:-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/> | AWS Microcredential: Application Networking Demonstrated 📋 | ✅ Credly Badge |
+| | | |
+| <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google_Cloud"/> | **Google Cloud** | `11 certs` |
+| <img src="https://img.shields.io/badge/Develop_GenAI_Apps_w-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google_Cloud"/> | Develop GenAI Apps with Gemini and Streamlit Skill Badge | ✅ Skill Badge |
+| <img src="https://img.shields.io/badge/Get_Started_with_API-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google_Cloud"/> | Get Started with API Gateway Skill Badge | ✅ Skill Badge |
+| <img src="https://img.shields.io/badge/Derive_Insights_from-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google_Cloud"/> | Derive Insights from BigQuery Data Skill Badge | ✅ Skill Badge |
+| <img src="https://img.shields.io/badge/Explore_Generative_A-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google_Cloud"/> | Explore Generative AI with the Vertex AI Gemini API Skill Badge | ✅ Skill Badge |
+| <img src="https://img.shields.io/badge/Automate_Data_Captur-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google_Cloud"/> | Automate Data Capture at Scale with Document AI Skill Badge | ✅ Skill Badge |
+| <img src="https://img.shields.io/badge/Google_Cloud:_Introd-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google_Cloud"/> | Google Cloud: Introduction to Generative AI 📋 | ✅ Foundational |
+| <img src="https://img.shields.io/badge/Google_Cloud:_Explor-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google_Cloud"/> | Google Cloud: Explore Gen AI with Vertex AI Gemini API 📋 | ✅ Skill Badge |
+| <img src="https://img.shields.io/badge/Google_Cloud:_Develo-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google_Cloud"/> | Google Cloud: Develop GenAI Apps with Gemini and Streamlit 📋 | ✅ Skill Badge |
+| <img src="https://img.shields.io/badge/Google_Cloud:_Get_St-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google_Cloud"/> | Google Cloud: Get Started with API Gateway 📋 | ✅ Skill Badge |
+| <img src="https://img.shields.io/badge/Google_Cloud:_Automa-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google_Cloud"/> | Google Cloud: Automate Data Capture at Scale with Document AI 📋 | ✅ Skill Badge |
+| <img src="https://img.shields.io/badge/Google_Cloud:_Derive-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google_Cloud"/> | Google Cloud: Derive Insights from BigQuery Data 📋 | ✅ Skill Badge |
+| | | |
+| <img src="https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white" alt="Coursera"/> | **Coursera** | `11 certs` |
+| <img src="https://img.shields.io/badge/Python_for_Data_Scie-0056D2?style=flat-square&logo=coursera&logoColor=white" alt="Coursera"/> | Python for Data Science and AI | ✅ Intermediate |
+| <img src="https://img.shields.io/badge/Databases_and_SQL_fo-0056D2?style=flat-square&logo=coursera&logoColor=white" alt="Coursera"/> | Databases and SQL for Data Science | ✅ Demonstrated |
+| <img src="https://img.shields.io/badge/Data_Analysis_with_P-0056D2?style=flat-square&logo=coursera&logoColor=white" alt="Coursera"/> | Data Analysis with Python | ✅ Intermediate |
+| <img src="https://img.shields.io/badge/Data_Analytics_Essen-0056D2?style=flat-square&logo=coursera&logoColor=white" alt="Coursera"/> | Data Analytics Essentials | ✅ Demonstrated |
+| <img src="https://img.shields.io/badge/Data_Visualization_w-0056D2?style=flat-square&logo=coursera&logoColor=white" alt="Coursera"/> | Data Visualization with Python | ✅ Intermediate |
+| <img src="https://img.shields.io/badge/Excel_Essentials_for-0056D2?style=flat-square&logo=coursera&logoColor=white" alt="Coursera"/> | Excel Essentials for Data Analytics | ✅ Demonstrated |
+| <img src="https://img.shields.io/badge/Python_Project_for_D-0056D2?style=flat-square&logo=coursera&logoColor=white" alt="Coursera"/> | Python Project for Data Science | ✅ Intermediate |
+| <img src="https://img.shields.io/badge/Data_Visualization_&-0056D2?style=flat-square&logo=coursera&logoColor=white" alt="Coursera"/> | Data Visualization & Dashboard Essentials | ✅ Demonstrated |
+| <img src="https://img.shields.io/badge/Data_Analyst_Profess-0056D2?style=flat-square&logo=coursera&logoColor=white" alt="Coursera"/> | Data Analyst Professional Certificate | ✅ Professional Certificate |
+| <img src="https://img.shields.io/badge/Data_Analysis_&_Visu-0056D2?style=flat-square&logo=coursera&logoColor=white" alt="Coursera"/> | Data Analysis & Visualization Foundations Specialization (V3) | ✅ Demonstrated |
+| <img src="https://img.shields.io/badge/IBM_Data_Analyst_Pro-0056D2?style=flat-square&logo=coursera&logoColor=white" alt="Coursera"/> | IBM Data Analyst Professional Certificate 📋 | ✅ Professional Certificate |
+| | | |
+| <img src="https://img.shields.io/badge/Cursa-555555?style=flat-square&logoColor=white" alt="Cursa"/> | **Cursa** | `2 certs` |
+| <img src="https://img.shields.io/badge/FastAPI_for_Beginner-555555?style=flat-square&logoColor=white" alt="Cursa"/> | FastAPI for Beginners 📋 | ✅ Certified |
+| <img src="https://img.shields.io/badge/Docker_for_Beginners-555555?style=flat-square&logoColor=white" alt="Cursa"/> | Docker for Beginners 📋 | ✅ Certified |
+| | | |
+
+</details>
 <!-- /AUTO:CERTIFICATIONS -->
 
 </div>
@@ -164,6 +230,71 @@ class SandiRidwan:
 <div align="center">
 
 <!-- AUTO:CERT_SHOWCASE -->
+<img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/summary.svg" alt="Certificate Summary" width="100%"/>
+
+<div align="center">
+<table><tr>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_000_cs50p___introduction_to_programming_with.svg" alt="CS50P — Introduction to Programming with Python" width="420"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_001_ibm_data_analyst_professional_certificat.svg" alt="IBM Data Analyst Professional Certificate" width="420"/></td>
+</tr><tr>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_002_testdome_python___top_10_.svg" alt="TestDome Python — Top 10%" width="420"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_003_testdome_sql___top_10_.svg" alt="TestDome SQL — Top 10%" width="420"/></td>
+</tr><tr>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_004_microsoft_applied_skills__github_actions.svg" alt="Microsoft Applied Skills: GitHub Actions" width="420"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_005_mongodb_overview__core_concepts_and_arch.svg" alt="MongoDB Overview: Core Concepts and Architecture" width="420"/></td>
+</tr><tr>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_006_mongodb_crud_operations.svg" alt="MongoDB CRUD Operations" width="420"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_007_mongodb_aggregation_fundamentals.svg" alt="MongoDB Aggregation Fundamentals" width="420"/></td>
+</tr><tr>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_008_mongodb_indexing_design_fundamentals.svg" alt="MongoDB Indexing Design Fundamentals" width="420"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_009_mongodb__from_relational_to_document_mod.svg" alt="MongoDB: From Relational to Document Model" width="420"/></td>
+</tr><tr>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_010_mongodb_query_optimization_techniques.svg" alt="MongoDB Query Optimization Techniques" width="420"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_011_mongodb__building_rag_apps.svg" alt="MongoDB: Building RAG Apps" width="420"/></td>
+</tr><tr>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_012_mongodb_ai_strategy.svg" alt="MongoDB AI Strategy" width="420"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_013_mongodb__building_ai_agents.svg" alt="MongoDB: Building AI Agents" width="420"/></td>
+</tr><tr>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_014_mongodb_vector_search_fundamentals.svg" alt="MongoDB Vector Search Fundamentals" width="420"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_015_fastapi_for_beginners.svg" alt="FastAPI for Beginners" width="420"/></td>
+</tr><tr>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_016_docker_for_beginners.svg" alt="Docker for Beginners" width="420"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_017_kodekloud__docker_crash_course.svg" alt="KodeKloud: Docker Crash Course" width="420"/></td>
+</tr><tr>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_018_kodekloud__docker_training_full_course.svg" alt="KodeKloud: Docker Training Full Course" width="420"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_019_kodekloud__aws_basics.svg" alt="KodeKloud: AWS Basics" width="420"/></td>
+</tr><tr>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_020_kodekloud__ai_powered_devops.svg" alt="KodeKloud: AI-Powered DevOps" width="420"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_021_kodekloud__mcp_for_beginners.svg" alt="KodeKloud: MCP For Beginners" width="420"/></td>
+</tr><tr>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_022_kodekloud__aws_ecs.svg" alt="KodeKloud: AWS ECS" width="420"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_023_hackerrank_python__basic_.svg" alt="HackerRank Python (Basic)" width="420"/></td>
+</tr><tr>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_024_hackerrank_sql__basic_.svg" alt="HackerRank SQL (Basic)" width="420"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_025_hackerrank_sql__intermediate_.svg" alt="HackerRank SQL (Intermediate)" width="420"/></td>
+</tr><tr>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_026_hackerrank_sql__advanced_.svg" alt="HackerRank SQL (Advanced)" width="420"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_027_hackerrank_problem_solving__basic_.svg" alt="HackerRank Problem Solving (Basic)" width="420"/></td>
+</tr><tr>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_028_hackerrank_problem_solving__intermediate.svg" alt="HackerRank Problem Solving (Intermediate)" width="420"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_029_hackerrank_rest_api__intermediate_.svg" alt="HackerRank REST API (Intermediate)" width="420"/></td>
+</tr><tr>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_030_hackerrank_node__basic_.svg" alt="HackerRank Node (Basic)" width="420"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_031_hackerrank_node_js__intermediate_.svg" alt="HackerRank Node.js (Intermediate)" width="420"/></td>
+</tr><tr>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_032_aws_microcredential__serverless_demonstr.svg" alt="AWS Microcredential: Serverless Demonstrated" width="420"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_033_aws_microcredential__application_network.svg" alt="AWS Microcredential: Application Networking Demonstrated" width="420"/></td>
+</tr><tr>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_034_google_cloud__introduction_to_generative.svg" alt="Google Cloud: Introduction to Generative AI" width="420"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_035_google_cloud__explore_gen_ai_with_vertex.svg" alt="Google Cloud: Explore Gen AI with Vertex AI Gemini API" width="420"/></td>
+</tr><tr>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_036_google_cloud__develop_genai_apps_with_ge.svg" alt="Google Cloud: Develop GenAI Apps with Gemini and Streamlit" width="420"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_037_google_cloud__get_started_with_api_gatew.svg" alt="Google Cloud: Get Started with API Gateway" width="420"/></td>
+</tr><tr>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_038_google_cloud__automate_data_capture_at_s.svg" alt="Google Cloud: Automate Data Capture at Scale with Document AI" width="420"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_039_google_cloud__derive_insights_from_bigqu.svg" alt="Google Cloud: Derive Insights from BigQuery Data" width="420"/></td>
+</tr></table>
+</div>
 <!-- /AUTO:CERT_SHOWCASE -->
 
 </div>
@@ -274,16 +405,16 @@ Stack: Make.com · Calendly · Monday.com · Claude API · Groq (Llama 3.1)
 ┌─────────────────────────────────────────────────────┐
 │  BYPASS TECHNIQUES — PROVEN IN PRODUCTION           │
 ├─────────────────────────────────────────────────────┤
-│  ✓ TLS Fingerprint Bypass    curl_cffi Chrome120    │
-│  ✓ JA3 Fingerprint Evasion   custom TLS profiles    │
-│  ✓ ASP.NET VIEWSTATE         span-ID parser         │
-│  ✓ Cloudflare WAF            undetected-chromedriver │
-│  ✓ Kasada Anti-Bot           human-mimicry logic    │
-│  ✓ hCaptcha / reCAPTCHA      3rd party solving      │
-│  ✓ Dynamic JS Rendering      Playwright intercept   │
-│  ✓ OTA Geo-IP Lock           currency workaround    │
-│  ✓ Hidden API Discovery      network intercept      │
-│  ✓ Pagination-less Sites     binary search pattern  │
+│  ✓ TLS Fingerprint Bypass        curl_cffi Chrome120│
+│  ✓ JA3 Fingerprint Evasion       custom TLS profiles│
+│  ✓ ASP.NET VIEWSTATE             span-ID parser     │
+│  ✓ Cloudflare WAF                undetected-chromedriver│
+│  ✓ Kasada Anti-Bot               human-mimicry logic│
+│  ✓ hCaptcha / reCAPTCHA          3rd party solving  │
+│  ✓ Dynamic JS Rendering          Playwright intercept│
+│  ✓ OTA Geo-IP Lock               currency workaround│
+│  ✓ Hidden API Discovery          network intercept  │
+│  ✓ Pagination-less Sites         binary search pattern│
 └─────────────────────────────────────────────────────┘
 ```
 <!-- /AUTO:ANTIBOT -->
@@ -321,18 +452,20 @@ Stack: Make.com · Calendly · Monday.com · Claude API · Groq (Llama 3.1)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 **Cloud & Data**
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **AI & LLMs**
 
-![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logoColor=white)
+![Claude_API](https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Groq_API](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 <!-- /AUTO:TECH_STACK -->
 
 </div>

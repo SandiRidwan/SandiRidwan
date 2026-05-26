@@ -1,0 +1,69 @@
+<svg width="420" height="240" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient id="bg36" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#0a0a1a;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#0d1117;stop-opacity:1"/>
+        </linearGradient>
+        <filter id="glow36">
+            <feGaussianBlur stdDeviation="2" result="blur"/>
+            <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+        </filter>
+    </defs>
+
+    <!-- Background -->
+    <rect width="420" height="240" rx="12" fill="url(#bg36)"/>
+    <rect width="420" height="240" rx="12" fill="none"
+          stroke="#4285F4" stroke-width="1" opacity="0.4"/>
+
+    <!-- Top accent line -->
+    <rect width="420" height="3" rx="12" fill="#4285F4" opacity="0.8"/>
+
+    <!-- Issuer badge -->
+    <rect x="20" y="20" width="auto" height="22" rx="11"
+          fill="#4285F4" opacity="0.15"/>
+    <text x="20" y="20" font-family="monospace" font-size="10"
+          fill="#4285F4" font-weight="bold">
+        <tspan dy="15">GOOGLE CLOUD SKILLS BOOST</tspan>
+    </text>
+
+    <!-- Certificate name -->
+    <text x="20" y="60" font-family="monospace" font-size="15"
+          fill="white" font-weight="bold">
+        <tspan x="20" dy="0">Google Cloud: Develop GenAI A...</tspan>
+    </text>
+    <text x='20' y='80' font-family='monospace' font-size='15' fill='white' font-weight='bold'><tspan> with Gemini and Streamlit</tspan></text>
+
+    <!-- Level badge -->
+    <rect x="20" y="95" width="130" height="20" rx="10"
+          fill="#74b0ff" opacity="0.15"/>
+    <text x="28" y="109" font-family="monospace" font-size="10"
+          fill="#74b0ff" font-weight="bold">
+        INTERMEDIATE
+    </text>
+
+    <!-- Date -->
+    <text x="165" y="109" font-family="monospace" font-size="10"
+          fill="white" opacity="0.5">
+        📅 23 Mei 2026
+    </text>
+
+    <!-- Divider -->
+    <line x1="20" y1="125" x2="400" y2="125"
+          stroke="#4285F4" stroke-width="0.5" opacity="0.3"/>
+
+    <!-- Skills -->
+    <text x="20" y="145" font-family="monospace" font-size="9"
+          fill="white" opacity="0.4">SKILLS COVERED</text>
+    <text x="20" y="162" font-family="monospace" font-size="10"
+          fill="#74b0ff" opacity="0.8">
+        —
+    </text>
+
+    
+    
+
+    <!-- Bottom decoration -->
+    <circle cx="405" cy="225" r="3" fill="#4285F4" opacity="0.4"/>
+    <circle cx="395" cy="225" r="2" fill="#4285F4" opacity="0.2"/>
+</svg>

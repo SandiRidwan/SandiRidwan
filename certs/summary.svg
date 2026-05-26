@@ -1,0 +1,73 @@
+<svg width="800" height="120" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="sumBg" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" style="stop-color:#0d1117"/>
+            <stop offset="50%" style="stop-color:#1a1f35"/>
+            <stop offset="100%" style="stop-color:#0d1117"/>
+        </linearGradient>
+    </defs>
+
+    <rect width="800" height="120" rx="12" fill="url(#sumBg)"/>
+    <rect width="800" height="120" rx="12" fill="none"
+          stroke="#00FF9C" stroke-width="1" opacity="0.3"/>
+    <rect width="800" height="3" rx="2" fill="#00FF9C" opacity="0.6"/>
+
+    <!-- Stats -->
+    <text x="20" y="35" font-family="monospace" font-size="28"
+          fill="#00FF9C" font-weight="bold">40</text>
+    <text x="65" y="35" font-family="monospace" font-size="11"
+          fill="white" opacity="0.6">VERIFIED CREDENTIALS</text>
+
+    <text x="250" y="35" font-family="monospace" font-size="28"
+          fill="#74b0ff" font-weight="bold">10</text>
+    <text x="295" y="35" font-family="monospace" font-size="11"
+          fill="white" opacity="0.6">PLATFORMS</text>
+
+    <text x="420" y="35" font-family="monospace" font-size="28"
+          fill="#ffa94d" font-weight="bold">2026</text>
+    <text x="475" y="35" font-family="monospace" font-size="11"
+          fill="white" opacity="0.6">ACTIVE YEAR</text>
+
+    <text x="620" y="35" font-family="monospace" font-size="11"
+          fill="white" opacity="0.4">Last updated:</text>
+    <text x="620" y="50" font-family="monospace" font-size="10"
+          fill="#00FF9C" opacity="0.7">26 May 2026</text>
+
+    <!-- Top issuers bar chart -->
+    
+        <rect x="20" y="70" width="100" height="8" rx="4"
+              fill="#00FF9C" opacity="0.6"/>
+        <text x="20" y="92" font-family="monospace" font-size="8"
+              fill="white" opacity="0.6">MongoDB</text>
+        <text x="123" y="78" font-family="monospace"
+              font-size="8" fill="#00FF9C">10</text>
+        
+        <rect x="165" y="70" width="100" height="8" rx="4"
+              fill="#00FF9C" opacity="0.6"/>
+        <text x="165" y="92" font-family="monospace" font-size="8"
+              fill="white" opacity="0.6">HackerRank</text>
+        <text x="268" y="78" font-family="monospace"
+              font-size="8" fill="#00FF9C">9</text>
+        
+        <rect x="310" y="70" width="72" height="8" rx="4"
+              fill="#00FF9C" opacity="0.6"/>
+        <text x="310" y="92" font-family="monospace" font-size="8"
+              fill="white" opacity="0.6">KodeKloud</text>
+        <text x="385" y="78" font-family="monospace"
+              font-size="8" fill="#00FF9C">6</text>
+        
+        <rect x="455" y="70" width="72" height="8" rx="4"
+              fill="#00FF9C" opacity="0.6"/>
+        <text x="455" y="92" font-family="monospace" font-size="8"
+              fill="white" opacity="0.6">Google Cloud</text>
+        <text x="530" y="78" font-family="monospace"
+              font-size="8" fill="#00FF9C">6</text>
+        
+        <rect x="600" y="70" width="24" height="8" rx="4"
+              fill="#00FF9C" opacity="0.6"/>
+        <text x="600" y="92" font-family="monospace" font-size="8"
+              fill="white" opacity="0.6">TestDome</text>
+        <text x="627" y="78" font-family="monospace"
+              font-size="8" fill="#00FF9C">2</text>
+        
+</svg>
