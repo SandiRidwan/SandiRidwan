@@ -234,65 +234,53 @@ class SandiRidwan:
 
 <div align="center">
 <table><tr>
-<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_000_cs50p___introduction_to_programming_with.svg" alt="CS50P — Introduction to Programming with Python" width="420"/></td>
-<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_001_ibm_data_analyst_professional_certificat.svg" alt="IBM Data Analyst Professional Certificate" width="420"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_000_cs50p___introduction_to_programming_with.svg" alt="CS50P — Introduction to Programming with Python" width="460"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_001_ibm_data_analyst_professional_certificat.svg" alt="IBM Data Analyst Professional Certificate" width="460"/></td>
 </tr><tr>
-<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_002_testdome_python___top_10_.svg" alt="TestDome Python — Top 10%" width="420"/></td>
-<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_003_testdome_sql___top_10_.svg" alt="TestDome SQL — Top 10%" width="420"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_002_testdome_python___top_10_.svg" alt="TestDome Python — Top 10%" width="460"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_003_testdome_sql___top_10_.svg" alt="TestDome SQL — Top 10%" width="460"/></td>
 </tr><tr>
-<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_004_microsoft_applied_skills__github_actions.svg" alt="Microsoft Applied Skills: GitHub Actions" width="420"/></td>
-<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_005_mongodb_overview__core_concepts_and_arch.svg" alt="MongoDB Overview: Core Concepts and Architecture" width="420"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_004_microsoft_applied_skills__github_actions.svg" alt="Microsoft Applied Skills: GitHub Actions" width="460"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_005_mongodb_overview__core_concepts_and_arch.svg" alt="MongoDB Overview: Core Concepts and Architecture" width="460"/></td>
 </tr><tr>
-<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_006_mongodb_crud_operations.svg" alt="MongoDB CRUD Operations" width="420"/></td>
-<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_007_mongodb_aggregation_fundamentals.svg" alt="MongoDB Aggregation Fundamentals" width="420"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_006_mongodb_crud_operations.svg" alt="MongoDB CRUD Operations" width="460"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_007_mongodb_aggregation_fundamentals.svg" alt="MongoDB Aggregation Fundamentals" width="460"/></td>
 </tr><tr>
-<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_008_mongodb_indexing_design_fundamentals.svg" alt="MongoDB Indexing Design Fundamentals" width="420"/></td>
-<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_009_mongodb__from_relational_to_document_mod.svg" alt="MongoDB: From Relational to Document Model" width="420"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_008_mongodb_indexing_design_fundamentals.svg" alt="MongoDB Indexing Design Fundamentals" width="460"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_009_mongodb__from_relational_to_document_mod.svg" alt="MongoDB: From Relational to Document Model" width="460"/></td>
 </tr><tr>
-<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_010_mongodb_query_optimization_techniques.svg" alt="MongoDB Query Optimization Techniques" width="420"/></td>
-<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_011_mongodb__building_rag_apps.svg" alt="MongoDB: Building RAG Apps" width="420"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_010_mongodb_query_optimization_techniques.svg" alt="MongoDB Query Optimization Techniques" width="460"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_011_mongodb__building_rag_apps.svg" alt="MongoDB: Building RAG Apps" width="460"/></td>
 </tr><tr>
-<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_012_mongodb_ai_strategy.svg" alt="MongoDB AI Strategy" width="420"/></td>
-<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_013_mongodb__building_ai_agents.svg" alt="MongoDB: Building AI Agents" width="420"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_012_mongodb_ai_strategy.svg" alt="MongoDB AI Strategy" width="460"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_013_mongodb__building_ai_agents.svg" alt="MongoDB: Building AI Agents" width="460"/></td>
 </tr><tr>
-<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_014_mongodb_vector_search_fundamentals.svg" alt="MongoDB Vector Search Fundamentals" width="420"/></td>
-<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_015_fastapi_for_beginners.svg" alt="FastAPI for Beginners" width="420"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_014_mongodb_vector_search_fundamentals.svg" alt="MongoDB Vector Search Fundamentals" width="460"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_015_fastapi_for_beginners.svg" alt="FastAPI for Beginners" width="460"/></td>
 </tr><tr>
-<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_016_docker_for_beginners.svg" alt="Docker for Beginners" width="420"/></td>
-<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_017_kodekloud__docker_crash_course.svg" alt="KodeKloud: Docker Crash Course" width="420"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_016_docker_for_beginners.svg" alt="Docker for Beginners" width="460"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_017_kodekloud__docker_crash_course.svg" alt="KodeKloud: Docker Crash Course" width="460"/></td>
 </tr><tr>
-<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_018_kodekloud__docker_training_full_course.svg" alt="KodeKloud: Docker Training Full Course" width="420"/></td>
-<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_019_kodekloud__aws_basics.svg" alt="KodeKloud: AWS Basics" width="420"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_018_kodekloud__docker_training_full_course.svg" alt="KodeKloud: Docker Training Full Course" width="460"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_019_kodekloud__aws_basics.svg" alt="KodeKloud: AWS Basics" width="460"/></td>
 </tr><tr>
-<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_020_kodekloud__ai_powered_devops.svg" alt="KodeKloud: AI-Powered DevOps" width="420"/></td>
-<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_021_kodekloud__mcp_for_beginners.svg" alt="KodeKloud: MCP For Beginners" width="420"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_020_kodekloud__ai_powered_devops.svg" alt="KodeKloud: AI-Powered DevOps" width="460"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_021_kodekloud__mcp_for_beginners.svg" alt="KodeKloud: MCP For Beginners" width="460"/></td>
 </tr><tr>
-<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_022_kodekloud__aws_ecs.svg" alt="KodeKloud: AWS ECS" width="420"/></td>
-<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_023_hackerrank_python__basic_.svg" alt="HackerRank Python (Basic)" width="420"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_022_kodekloud__aws_ecs.svg" alt="KodeKloud: AWS ECS" width="460"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_023_hackerrank_python__basic_.svg" alt="HackerRank Python (Basic)" width="460"/></td>
 </tr><tr>
-<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_024_hackerrank_sql__basic_.svg" alt="HackerRank SQL (Basic)" width="420"/></td>
-<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_025_hackerrank_sql__intermediate_.svg" alt="HackerRank SQL (Intermediate)" width="420"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_024_hackerrank_sql__basic_.svg" alt="HackerRank SQL (Basic)" width="460"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_025_hackerrank_sql__intermediate_.svg" alt="HackerRank SQL (Intermediate)" width="460"/></td>
 </tr><tr>
-<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_026_hackerrank_sql__advanced_.svg" alt="HackerRank SQL (Advanced)" width="420"/></td>
-<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_027_hackerrank_problem_solving__basic_.svg" alt="HackerRank Problem Solving (Basic)" width="420"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_026_hackerrank_sql__advanced_.svg" alt="HackerRank SQL (Advanced)" width="460"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_027_hackerrank_problem_solving__basic_.svg" alt="HackerRank Problem Solving (Basic)" width="460"/></td>
 </tr><tr>
-<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_028_hackerrank_problem_solving__intermediate.svg" alt="HackerRank Problem Solving (Intermediate)" width="420"/></td>
-<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_029_hackerrank_rest_api__intermediate_.svg" alt="HackerRank REST API (Intermediate)" width="420"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_028_hackerrank_problem_solving__intermediate.svg" alt="HackerRank Problem Solving (Intermediate)" width="460"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_029_hackerrank_rest_api__intermediate_.svg" alt="HackerRank REST API (Intermediate)" width="460"/></td>
 </tr><tr>
-<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_030_hackerrank_node__basic_.svg" alt="HackerRank Node (Basic)" width="420"/></td>
-<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_031_hackerrank_node_js__intermediate_.svg" alt="HackerRank Node.js (Intermediate)" width="420"/></td>
-</tr><tr>
-<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_032_aws_microcredential__serverless_demonstr.svg" alt="AWS Microcredential: Serverless Demonstrated" width="420"/></td>
-<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_033_aws_microcredential__application_network.svg" alt="AWS Microcredential: Application Networking Demonstrated" width="420"/></td>
-</tr><tr>
-<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_034_google_cloud__introduction_to_generative.svg" alt="Google Cloud: Introduction to Generative AI" width="420"/></td>
-<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_035_google_cloud__explore_gen_ai_with_vertex.svg" alt="Google Cloud: Explore Gen AI with Vertex AI Gemini API" width="420"/></td>
-</tr><tr>
-<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_036_google_cloud__develop_genai_apps_with_ge.svg" alt="Google Cloud: Develop GenAI Apps with Gemini and Streamlit" width="420"/></td>
-<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_037_google_cloud__get_started_with_api_gatew.svg" alt="Google Cloud: Get Started with API Gateway" width="420"/></td>
-</tr><tr>
-<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_038_google_cloud__automate_data_capture_at_s.svg" alt="Google Cloud: Automate Data Capture at Scale with Document AI" width="420"/></td>
-<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_039_google_cloud__derive_insights_from_bigqu.svg" alt="Google Cloud: Derive Insights from BigQuery Data" width="420"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_030_hackerrank_node__basic_.svg" alt="HackerRank Node (Basic)" width="460"/></td>
+<td><img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/main/certs/card_031_hackerrank_node_js__intermediate_.svg" alt="HackerRank Node.js (Intermediate)" width="460"/></td>
 </tr></table>
 </div>
 <!-- /AUTO:CERT_SHOWCASE -->
