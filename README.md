@@ -403,6 +403,8 @@ Stack: Make.com · Calendly · Monday.com · Claude API · Groq (Llama 3.1)
 │  ✓ OTA Geo-IP Lock               currency workaround│
 │  ✓ Hidden API Discovery          network intercept  │
 │  ✓ Pagination-less Sites         binary search pattern│
+│  ✓ Railway Worker Deploy         Procfile + Nixpacks│
+│  ✓ PostgreSQL UPSERT             numpy cast + psycopg2│
 └─────────────────────────────────────────────────────┘
 ```
 <!-- /AUTO:ANTIBOT -->
@@ -421,6 +423,7 @@ Stack: Make.com · Calendly · Monday.com · Claude API · Groq (Llama 3.1)
 <div align="center">
 
 <!-- AUTO:TECH_STACK -->
+
 **Languages & Core**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -434,11 +437,17 @@ Stack: Make.com · Calendly · Monday.com · Claude API · Groq (Llama 3.1)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logoColor=white)
+![curl_cffi](https://img.shields.io/badge/curl_cffi-FF6B35?style=for-the-badge&logoColor=white)
+![UC_Driver](https://img.shields.io/badge/UC_Driver-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 **Backend & DevOps**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -448,12 +457,34 @@ Stack: Make.com · Calendly · Monday.com · Claude API · Groq (Llama 3.1)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Sheets_API](https://img.shields.io/badge/Sheets_API-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+
+**Deployment**
+
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 **AI & LLMs**
 
 ![Claude_API](https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Groq_API](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![APScheduler](https://img.shields.io/badge/APScheduler-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![yfinance](https://img.shields.io/badge/yfinance-720026?style=for-the-badge&logoColor=white)
+![Market_Cal](https://img.shields.io/badge/Market_Cal-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Notification & Messaging**
+
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 <!-- /AUTO:TECH_STACK -->
 
 </div>
