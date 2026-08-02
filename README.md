@@ -112,7 +112,7 @@ class SandiRidwan:
 | <img src="https://img.shields.io/badge/TestDome-FFD700?style=flat-square&logoColor=white" alt="TestDome"/> | TestDome Python — Top 10% · TestDome SQL — Top 10% | `2` |
 | <img src="https://img.shields.io/badge/Harvard-A51C30?style=flat-square&logoColor=white" alt="Harvard"/> | CS50P — Introduction to P | `1` |
 | <img src="https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft"/> | GitHub Actions | `1` |
-| <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | Building AI-Powered Searc · Building RAG Apps Using M · Building AI Agents with M · From Relational Model (SQ · _+12 more_ | `16` |
+| <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | Building AI-Powered Searc · Building RAG Apps Using M · Building AI Agents with M · How MongoDB Enables a Res · _+12 more_ | `16` |
 | <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/> | HackerRank Python (Basic) · HackerRank SQL (Basic) · HackerRank SQL (Intermedi · HackerRank SQL (Advanced) · _+5 more_ | `9` |
 | <img src="https://img.shields.io/badge/KodeKloud-1A6DFF?style=flat-square&logo=docker&logoColor=white" alt="KodeKloud"/> | Docker Crash Course · Docker Training Full Cour · AWS Basics · AI-Powered DevOps · _+2 more_ | `6` |
 | <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/> | AWS Serverless Demonstrat · AWS Application Networkin · Serverless Demonstrated · Application Networking De | `4` |
@@ -139,8 +139,8 @@ class SandiRidwan:
 | <img src="https://img.shields.io/badge/Building_AI_Powered_-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | Building AI-Powered Search with MongoDB Vector Search | ✅ Foundational |
 | <img src="https://img.shields.io/badge/Building_RAG_Apps_Us-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | Building RAG Apps Using MongoDB | ✅ Foundational |
 | <img src="https://img.shields.io/badge/Building_AI_Agents_w-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | Building AI Agents with MongoDB | ✅ Foundational |
-| <img src="https://img.shields.io/badge/From_Relational_Mode-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | From Relational Model (SQL) to MongoDBs Document Model | ✅ Foundational |
 | <img src="https://img.shields.io/badge/AI_and_Innovation:_H-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | AI and Innovation: How MongoDB Enables a Resilient AI Strategy | ✅ Foundational |
+| <img src="https://img.shields.io/badge/From_Relational_Mode-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | From Relational Model (SQL) to MongoDBs Document Model | ✅ Foundational |
 | <img src="https://img.shields.io/badge/CRUD_Operations_in_M-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | CRUD Operations in MongoDB | ✅ Foundational |
 | <img src="https://img.shields.io/badge/MongoDB_Aggregation_-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | MongoDB Aggregation Fundamentals | ✅ Foundational |
 | <img src="https://img.shields.io/badge/MongoDB_Query_Optimi-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | MongoDB Query Optimization Techniques | ✅ Foundational |
