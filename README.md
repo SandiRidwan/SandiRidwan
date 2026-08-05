@@ -143,8 +143,8 @@ class SandiRidwan:
 | <img src="https://img.shields.io/badge/From_Relational_Mode-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | From Relational Model (SQL) to MongoDBs Document Model | ✅ Foundational |
 | <img src="https://img.shields.io/badge/CRUD_Operations_in_M-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | CRUD Operations in MongoDB | ✅ Foundational |
 | <img src="https://img.shields.io/badge/MongoDB_Aggregation_-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | MongoDB Aggregation Fundamentals | ✅ Foundational |
-| <img src="https://img.shields.io/badge/MongoDB_Query_Optimi-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | MongoDB Query Optimization Techniques | ✅ Foundational |
 | <img src="https://img.shields.io/badge/MongoDB_Overview:_Co-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | MongoDB Overview: Core Concepts and Architecture | ✅ Foundational |
+| <img src="https://img.shields.io/badge/MongoDB_Query_Optimi-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | MongoDB Query Optimization Techniques | ✅ Foundational |
 | <img src="https://img.shields.io/badge/MongoDB_Indexing_Des-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | MongoDB Indexing Design Fundamentals | ✅ Foundational |
 | <img src="https://img.shields.io/badge/MongoDB_CRUD_Operati-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | MongoDB CRUD Operations 📋 | ✅ Foundational |
 | <img src="https://img.shields.io/badge/MongoDB:_From_Relati-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> | MongoDB: From Relational to Document Model 📋 | ✅ Foundational |
