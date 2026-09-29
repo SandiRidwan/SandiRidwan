@@ -18,7 +18,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&width=800&height=60&lines=Sandi+Ridwan+%F0%9F%9A%80;Automation+%26+Data+Pipeline+Architect;Web+Scraping+%7C+Anti-Bot+Bypass+Specialist;TestDome+Python+%26+SQL+%E2%80%94+Top+10%25+%F0%9F%8F%85;Building+Data+Engines+That+Never+Sleep" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&width=800&height=60&lines=Sandi+Ridwan+%F0%9F%9A%80;Automation+%26+Data+Pipeline+Architect;Web+Scraping+%7C+Anti-Bot+Bypass+Specialist;Data+Analyst+%7C+Statistics+%7C+Geospatial;9+Production+Data+Projects;TestDome+Python+%26+SQL+%E2%80%94+Top+10%25+%F0%9F%8F%85;Building+Data+Engines+That+Never+Sleep" alt="Typing SVG" />
 
 <br/>
 
@@ -382,6 +382,77 @@ Stack: Make.com · Calendly · Monday.com · Claude API · Groq (Llama 3.1)
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 
+<!-- =========================================================================
+     FRAGMEN BARU — "DATA ANALYST" untuk README profile SandiRidwan
+     Gaya identik dengan yang ada: terminal ($ ...), neon #00FF9C, penanda AUTO.
+     ========================================================================= -->
+
+## `$ ls -la ./data-projects/`
+
+> 📊 **Beyond scraping — I turn data into decisions.** End-to-end analytics:
+> ingestion → SQL warehouse → statistical validation → interactive dashboard.
+> Every project ships with tests, honest limitations, and "so what?" insights.
+
+<div align="center">
+<img src="https://media.giphy.com/media/xUOwGd5K61ZbYcK3e8/giphy.gif" width="360" alt="data analytics gif"/>
+</div>
+
+<!-- AUTO:DATA_PROJECTS -->
+
+### 📊 A/B Testing & Causal Inference Lab `[Data Analyst]`
+> Statistical experiment analysis with **industrial rigor**: hypothesis testing, 95% CI, power analysis, Benjamini-Hochberg FDR correction, SRM check, heterogeneous effects + CUPED. Found a **−4.31% retention drop** (p=0.0016) that naive averaging would miss.
+> 🔗 **[Live demo →](https://ab-testing-lab.streamlit.app)**
+
+```
+Stack: scipy · statsmodels · DuckDB · Streamlit · 18 automated tests
+```
+
+### 🗺️ Indonesia Poverty & Access Atlas `[Geospatial]`
+> **270 kabupaten** mapped from BPS + GADM + OpenStreetMap → DuckDB → SQL marts → interactive Folium choropleth. Reveals poverty clusters in Papua (Intan Jaya **40%**). Handles `var_id` mismatch across provinces.
+> 🔗 **[Live demo →](https://geo-access-atlas-mpgubanpe4cqjdbcah9l7a.streamlit.app)**
+
+```
+Stack: GeoPandas · Folium · DuckDB · BPS WebAPI · 14 tests
+```
+
+### 📄 Document Intelligence Lab `[Extraction]`
+> **1,392 indicators** extracted from UN PDF reports → structured data. Honest validation: recall/consistency/noise measured, and it **proves automatic PDF-table extraction fails <1%** of the time on real reports.
+> 🔗 **[Live demo →](https://document-intelligence-lab-xbexkxq5vcxmnjx83xagxy.streamlit.app)**
+
+```
+Stack: pdfplumber · DuckDB · Streamlit · validation harness · 11 tests
+```
+
+### 🌾 Food Price & Security Intelligence `[Data Platform]`
+> ASEAN food security from **World Bank + BPS WebAPI** → DuckDB → SQL marts → dashboard + alerts. Monthly price data through **2026**. Ships with a real finding: rice wholesale **+21%** (2020→2026).
+> 🔗 **[Live demo →](https://food-price-intelligence-6jhyr7zvqbpwgzten7o9zr.streamlit.app)**
+
+```
+Stack: DuckDB · World Bank API · BPS WebAPI · Streamlit · 20 tests
+```
+
+### 🧠 AI Sentiment Intelligence `[NLP]`
+> **8,835 Hacker News comments** → sentiment, topics, trends. Lexicon v2 + DistilBERT comparison on the same holdout — with a transparent admission that the lexicon **misses sarcasm**.
+> 🔗 **[Live demo →](https://ai-sentiment-intelligence-ay6natm4hlv9pybk2dkatx.streamlit.app)**
+
+```
+Stack: NLP · pandas · DistilBERT · Streamlit · documented limitations
+```
+
+> **Every project above**: DuckDB/SQL · data-quality tests · GitHub Actions CI ·
+> "Kenapa·Tujuan·Dampak" narration · **Insight + Recommendation + Risk** per chart.
+
+<!-- /AUTO:DATA_PROJECTS -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
+
 ## `$ cat ./anti_bot_arsenal.md`
 
 <div align="center">
@@ -489,6 +560,47 @@ Stack: Make.com · Calendly · Monday.com · Claude API · Groq (Llama 3.1)
 </p>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
+
+## `$ python3 analyst_toolkit.py`
+
+<div align="center">
+
+<!-- AUTO:ANALYST_STACK -->
+
+**Analytics & Statistics**
+
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![statsmodels](https://img.shields.io/badge/statsmodels-4C72B0?style=for-the-badge&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+**Warehouse & SQL**
+
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Apache_Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=for-the-badge&logo=apacheparquet&logoColor=white)
+
+**Geospatial & Documents**
+
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=geopandas&logoColor=white)
+![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=leaflet&logoColor=white)
+![pdfplumber](https://img.shields.io/badge/pdfplumber-E4A11B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
+
+**Visualization & Dashboards**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+**Quality & Ops**
+
+![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![pytest](https://img.shields.io/badge/data--quality_tests-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+<!-- /AUTO:ANALYST_STACK -->
+
 </div>
 
 ## `$ git stats --global`
