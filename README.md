@@ -51,16 +51,19 @@
 ```python
 class SandiRidwan:
     def __init__(self):
-        self.role        = "Automation Architect & Data Pipeline Engineer"
+        self.role        = "Data Analyst & Automation Architect"
         self.location    = "Palu, Central Sulawesi 🇮🇩"
         self.languages   = ["Python", "JavaScript", "SQL", "Bash"]
-        self.stack       = ["FastAPI", "Playwright", "Docker", "MongoDB", "AWS"]
+        self.stack       = ["Python", "DuckDB/SQL", "pandas", "FastAPI",
+                            "Playwright", "Docker", "Streamlit", "AWS"]
         self.specialties = [
             "Large-scale web scraping (50K–500K records)",
             "TLS fingerprint bypass & anti-bot evasion",
             "Government & legal data extraction",
             "Automation pipelines (Make.com, Zapier)",
-            "AI-powered data processing (Claude API, Groq)"
+            "AI-powered data processing (Claude API, Groq)",
+            "Data analytics: DuckDB · SQL · statistics · geospatial",
+            "Document intelligence: PDF → structured data"
         ]
         self.certifications = {
 # AUTO:PYTHON_CERTS
