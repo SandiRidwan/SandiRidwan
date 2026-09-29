@@ -9,7 +9,7 @@
 </picture>
 
 ###
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00FF9C,100:000000&height=200&section=header&text=SANDI%20RIDWAN&fontSize=60&fontColor=00FF9C&fontAlignY=38&desc=Automation%20Architect%20%7C%20Data%20Pipeline%20Engineer%20%7C%20Anti-Bot%20Specialist&descAlignY=58&descSize=16&descColor=888888&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00FF9C,100:000000&height=200&section=header&text=SANDI%20RIDWAN&fontSize=60&fontColor=00FF9C&fontAlignY=38&desc=Data%20Analyst%20%7C%20Automation%20Architect%20%7C%20Data%20Pipeline%20Engineer&descAlignY=58&descSize=16&descColor=888888&animation=fadeIn" />
 
 
 <img src="https://raw.githubusercontent.com/SandiRidwan/SandiRidwan/snake-output/snake.svg" alt="Snake animation" />
@@ -22,7 +22,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=666666&center=true&vCenter=true&width=700&height=30&lines=%24+python3+scraper.py+--target+any_site+--bypass+any_protection;%24+docker+build+-t+sandi%2Fdata-engine+.+%26%26+docker+run+...;%24+records_extracted%3D224000+%7C+status%3DDONE+%7C+elapsed%3D2.3h;%24+make.com+%7C+claude-api+%7C+playwright+%7C+curl_cffi" alt="Terminal Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=666666&center=true&vCenter=true&width=700&height=30&lines=%24+python3+scraper.py+--target+any_site+--bypass+any_protection;%24+analyst.py+--ingest+--duckdb+--dashboard+%7C+insight%3Agrowth;%24+docker+build+-t+sandi%2Fdata-engine+.+%26%26+docker+run+...;%24+records_extracted%3D224000+%7C+status%3DDONE+%7C+elapsed%3D2.3h;%24+pandas+%7C+duckdb+%7C+statsmodels+%7C+geopandas+%7C+streamlit+%7C+ci%3Apass" alt="Terminal Typing" />
 
 </div>
 
