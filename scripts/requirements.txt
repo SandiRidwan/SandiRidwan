@@ -1,0 +1,10 @@
+# Profile-art pipeline
+# Daily CI only needs the first two:
+requests==2.32.3
+beautifulsoup4==4.12.3
+
+# Portrait-only (run locally, not needed by the daily workflow):
+pillow
+numpy
+opencv-python
+rembg
