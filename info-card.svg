@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="242" viewBox="0 0 490 242" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<rect width="100%" height="100%" rx="8" fill="#0d1117"/>
+<rect width="100%" height="100%" rx="8" fill="none" stroke="#00FF9C" stroke-opacity="0.35"/>
+<circle cx="18.0" cy="28" r="4" fill="#ff5f56"/>
+<circle cx="32.0" cy="28" r="4" fill="#ffbd2e"/>
+<circle cx="46.0" cy="28" r="4" fill="#27c93f"/>
+<text x="472" y="33" font-size="12" fill="#00FF9C" text-anchor="end">sandi@sandiridwan</text>
+<line x1="18.0" y1="48" x2="472" y2="48" stroke="#00FF9C" stroke-opacity="0.3"/>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.00s" dur="0.35s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="0.00s" dur="0.35s" fill="freeze"/>
+<text x="18" y="64" font-size="14" fill="#58a6ff">Now</text>
+<text x="74" y="64" font-size="14" fill="#00FF9C">:</text>
+<text x="94" y="64" font-size="14" fill="#c9d1d9">Data Analyst @ Automation Architect</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.15s" dur="0.35s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="0.15s" dur="0.35s" fill="freeze"/>
+<text x="18" y="86" font-size="14" fill="#58a6ff">Prev</text>
+<text x="74" y="86" font-size="14" fill="#00FF9C">:</text>
+<text x="94" y="86" font-size="14" fill="#c9d1d9">Web-scraping &amp; anti-bot engineer</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.30s" dur="0.35s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="0.30s" dur="0.35s" fill="freeze"/>
+<text x="18" y="108" font-size="14" fill="#58a6ff">Stack</text>
+<text x="74" y="108" font-size="14" fill="#00FF9C">:</text>
+<text x="94" y="108" font-size="14" fill="#c9d1d9">Python · DuckDB/SQL · pandas · FastAPI</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.45s" dur="0.35s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="0.45s" dur="0.35s" fill="freeze"/>
+<text x="94" y="130" font-size="14" fill="#c9d1d9">Playwright · Docker · Streamlit · AWS</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.60s" dur="0.35s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="0.60s" dur="0.35s" fill="freeze"/>
+<text x="18" y="152" font-size="14" fill="#58a6ff">Focus</text>
+<text x="74" y="152" font-size="14" fill="#00FF9C">:</text>
+<text x="94" y="152" font-size="14" fill="#c9d1d9">Data pipelines that never sleep</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.75s" dur="0.35s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="0.75s" dur="0.35s" fill="freeze"/>
+<text x="18" y="174" font-size="14" fill="#58a6ff">Live</text>
+<text x="74" y="174" font-size="14" fill="#00FF9C">:</text>
+<text x="94" y="174" font-size="14" fill="#c9d1d9">ab-testing-lab.streamlit.app</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.90s" dur="0.35s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="0.90s" dur="0.35s" fill="freeze"/>
+<text x="94" y="196" font-size="14" fill="#c9d1d9">geo-access-atlas...streamlit.app</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.05s" dur="0.35s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="1.05s" dur="0.35s" fill="freeze"/>
+<text x="18" y="218" font-size="14" fill="#58a6ff">Note</text>
+<text x="74" y="218" font-size="14" fill="#00FF9C">:</text>
+<text x="94" y="218" font-size="14" fill="#c9d1d9">Insight + Recommendation + Risk per chart</text>
+</g>
+</svg>

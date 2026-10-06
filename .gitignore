@@ -1,0 +1,6 @@
+# Local-only artifacts for the profile-art pipeline
+source-photo.*
+source-prepped.png
+.venv/
+__pycache__/
+*.pyc

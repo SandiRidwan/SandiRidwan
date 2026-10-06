@@ -46,6 +46,44 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
+
+<br/>
+
+<!-- =========================================================================
+     ANIMATED TERMINAL HERO — ASCII portrait + neofetch card + live heatmap
+     Semua animasi hidup di dalam file SVG (SMIL/CSS keyframes), bukan JS.
+     Portrait & info card statis; heatmap di-refresh harian oleh GitHub Actions
+     (.github/workflows/update-profile-art.yml). Regenerate manual dengan:
+       python scripts/prep_photo.py --url https://github.com/SandiRidwan.png --crop face
+       python scripts/make_ascii_svg.py source-prepped.png -o sandi-ascii.svg
+       python scripts/make_info_card.py
+       python scripts/fetch_contributions.py --user SandiRidwan
+       python scripts/render_heatmap_svg.py
+     ========================================================================= -->
+
+<div align="center">
+
+<h3><code>sandi@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" alt="Live contribution heatmap" />
+
+<br><br>
+
+<h3><code>sandi@github ~ $ whoami</code></h3>
+<table>
+  <tr>
+    <td valign="top"><img src="./sandi-ascii.svg" width="370" alt="ASCII portrait" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" alt="Neofetch info card" /></td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
+
 ---
 
 ```python
